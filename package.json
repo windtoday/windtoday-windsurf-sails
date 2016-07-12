@@ -17,7 +17,9 @@
     "url": "https://github.com/windtoday/windtoday-sails/issues"
   },
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "req-all": "~0.1.0"
+  },
   "devDependencies": {
     "coveralls": "latest",
     "git-dirty": "latest",
