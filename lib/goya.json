@@ -1,0 +1,24 @@
+{
+  "brand": {
+    "name": "Goya",
+    "regex": "goya"
+  },
+  "models": [
+    {
+      "name": "Guru",
+      "regex": "guru"
+    },
+    {
+      "name": "Eclipse",
+      "regex": "eclipse"
+    },
+    {
+      "name": "Fringe",
+      "regex": "fringe"
+    },
+    {
+      "name": "Banzai",
+      "regex": "banzai"
+    }
+  ]
+}

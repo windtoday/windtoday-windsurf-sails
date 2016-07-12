@@ -1,0 +1,32 @@
+{
+  "brand": {
+    "name": "Ezzy",
+    "regex": "ezzy"
+  },
+  "models": [
+    {
+      "name": "Cheetah",
+      "regex": "cheetah"
+    },
+    {
+      "name": "Lion",
+      "regex": "lion"
+    },
+    {
+      "name": "Elite",
+      "regex": "elite"
+    },
+    {
+      "name": "Tiger",
+      "regex": "tiger"
+    },
+    {
+      "name": "Taka",
+      "regex": "taka"
+    },
+    {
+      "name": "Panther",
+      "regex": "panther"
+    }
+  ]
+}

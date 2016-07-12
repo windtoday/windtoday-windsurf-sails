@@ -1,0 +1,20 @@
+{
+  "brand": {
+    "name": "NeylPride",
+    "regex": "neylpride"
+  },
+  "models": [
+    {
+      "name": "Hellcat",
+      "regex": "hellcat"
+    },
+    {
+      "name": "Combat",
+      "regex": "combat"
+    },
+    {
+      "name": "FireFly",
+      "regex": "fireflt"
+    }
+  ]
+}

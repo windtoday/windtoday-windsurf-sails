@@ -1,0 +1,12 @@
+{
+  "brand": {
+    "name": "Naish",
+    "regex": "naish"
+  },
+  "models": [
+    {
+      "name": "Force",
+      "regex": "force"
+    }
+  ]
+}

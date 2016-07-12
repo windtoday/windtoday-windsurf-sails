@@ -1,0 +1,20 @@
+{
+  "brand": {
+    "name": "GA Sails",
+    "regex": "gaastra"
+  },
+  "models": [
+    {
+      "name": "Manic",
+      "regex": "manic"
+    },
+    {
+      "name": "Matrix",
+      "regex": "matrix"
+    },
+    {
+      "name": "Flow",
+      "regex": "flow"
+    }
+  ]
+}

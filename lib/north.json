@@ -1,0 +1,32 @@
+{
+  "brand": {
+    "name": "North Sails",
+    "regex": "north"
+  },
+  "models": [
+    {
+      "name": "Warp",
+      "regex": "warp"
+    },
+    {
+      "name": "Ram",
+      "regex": "ram"
+    },
+    {
+      "name": "Hero",
+      "regex": "hero"
+    },
+    {
+      "name": "X_TYPE",
+      "regex": "x type|xtype"
+    },
+    {
+      "name": "E_TYPE",
+      "regex": "e type|etype"
+    },
+    {
+      "name": "Ice",
+      "regex": "ice"
+    }
+  ]
+}

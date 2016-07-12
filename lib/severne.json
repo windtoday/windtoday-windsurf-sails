@@ -1,0 +1,12 @@
+{
+  "brand": {
+    "name": "Severne",
+    "regex": "severne"
+  },
+  "models": [
+    {
+      "name": "Reflex",
+      "regex": "reflex"
+    }
+  ]
+}

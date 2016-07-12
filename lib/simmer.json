@@ -1,0 +1,16 @@
+{
+  "brand": {
+    "name": "Simmer",
+    "regex": "simmer"
+  },
+  "models": [
+    {
+      "name": "Icon",
+      "regex": "icon"
+    },
+    {
+      "name": "Blacktip",
+      "regex": "blacktip"
+    }
+  ]
+}
