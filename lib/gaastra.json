@@ -9,12 +9,40 @@
       "regex": "manic"
     },
     {
+      "name": "IQ",
+      "regex": "iq"
+    },
+    {
+      "name": "Poison",
+      "regex": "poison"
+    },
+    {
       "name": "Matrix",
       "regex": "matrix"
     },
     {
       "name": "Flow",
       "regex": "flow"
+    },
+    {
+      "name": "Pilot",
+      "regex": "pilot"
+    },
+    {
+      "name": "Vapor",
+      "regex": "vapor"
+    },
+    {
+      "name": "Phantom",
+      "regex": "phantom"
+    },
+    {
+      "name": "Savage",
+      "regex": "Savage"
+    },
+    {
+      "name": "Cosmic",
+      "regex": "cosmic"
     }
   ]
 }

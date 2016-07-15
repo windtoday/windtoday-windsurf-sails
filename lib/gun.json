@@ -3,5 +3,54 @@
     "name": "Gun Sails",
     "regex": "gun"
   },
-  "models": []
+  "models": [
+    {
+      "name": "Dragon Sail",
+      "regex": "dragon"
+    },
+    {
+      "name": "GS-R",
+      "regex": "gs[ -]r"
+    },
+    {
+      "name": "Vector",
+      "regex": "vector"
+    },
+    {
+      "name": "Sunray",
+      "regex": "sunray"
+    },
+    {
+      "name": "Rapid",
+      "regex": "rapid"
+    },
+    {
+      "name": "Stream",
+      "regex": "stream"
+    },
+    {
+      "name": "Beat",
+      "regex": "beat"
+    },
+    {
+      "name": "Torro",
+      "regex": "torro"
+    },
+    {
+      "name": "Transwave",
+      "regex": "transwave"
+    },
+    {
+      "name": "Peak",
+      "regex": "peak"
+    },
+    {
+      "name": "Aqua",
+      "regex": "aqua"
+    },
+    {
+      "name": "Blow",
+      "regex": "blow"
+    }
+  ]
 }

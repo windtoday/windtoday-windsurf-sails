@@ -15,6 +15,10 @@
     {
       "name": "Switch Blade",
       "regex": "switch"
+    },
+    {
+      "name": "Quad",
+      "regex": "quad"
     }
   ]
 }

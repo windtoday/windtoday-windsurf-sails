@@ -25,6 +25,18 @@
       "regex": "taka"
     },
     {
+      "name": "Legacy",
+      "regex": "legacy"
+    },
+    {
+      "name": "Infinity",
+      "regex": "infinity"
+    },
+    {
+      "name": "Zephyr",
+      "regex": "zephyr"
+    },
+    {
       "name": "Panther",
       "regex": "panther"
     }

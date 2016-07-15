@@ -27,6 +27,10 @@
     {
       "name": "Ice",
       "regex": "ice"
+    },
+    {
+      "name": "Voodoo",
+      "regex": "voodoo"
     }
   ]
 }

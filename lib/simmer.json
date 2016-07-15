@@ -11,6 +11,10 @@
     {
       "name": "Blacktip",
       "regex": "blacktip"
+    },
+    {
+      "name": "SCR",
+      "regex": "scr"
     }
   ]
 }

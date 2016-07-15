@@ -7,6 +7,18 @@
     {
       "name": "Reflex",
       "regex": "reflex"
+    },
+    {
+      "name": "Gator",
+      "regex": "gator"
+    },
+    {
+      "name": "NCX",
+      "regex": "ncx"
+    },
+    {
+      "name": "Turbo",
+      "regex": "turbo"
     }
   ]
 }

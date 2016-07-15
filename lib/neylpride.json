@@ -1,7 +1,7 @@
 {
   "brand": {
-    "name": "NeylPride",
-    "regex": "neylpride"
+    "name": "Neilpryde",
+    "regex": "neilpryde|np"
   },
   "models": [
     {
@@ -14,7 +14,11 @@
     },
     {
       "name": "FireFly",
-      "regex": "fireflt"
+      "regex": "firefly"
+    },
+    {
+      "name": "Alpha",
+      "regex": "alpha"
     }
   ]
 }
