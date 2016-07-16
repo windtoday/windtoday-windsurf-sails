@@ -18,11 +18,11 @@
     },
     {
       "name": "X_TYPE",
-      "regex": "x[ -]type"
+      "regex": "x.?type"
     },
     {
       "name": "E_TYPE",
-      "regex": "e[ -]type"
+      "regex": "e.?type"
     },
     {
       "name": "Ice",

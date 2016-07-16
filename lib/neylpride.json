@@ -19,6 +19,14 @@
     {
       "name": "Alpha",
       "regex": "alpha"
+    },
+    {
+      "name": "Solo",
+      "regex": "solo"
+    },
+    {
+      "name": "Atlas",
+      "regex": "atlas"
     }
   ]
 }

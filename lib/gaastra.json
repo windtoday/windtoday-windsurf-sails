@@ -38,11 +38,15 @@
     },
     {
       "name": "Savage",
-      "regex": "Savage"
+      "regex": "savage"
     },
     {
       "name": "Cosmic",
       "regex": "cosmic"
+    },
+    {
+      "name": "Cross",
+      "regex": "cross"
     }
   ]
 }
