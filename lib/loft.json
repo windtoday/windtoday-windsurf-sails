@@ -5,36 +5,36 @@
   },
   "models": [
     {
-      "name": "Pureflip",
-      "regex": "pureflip"
-    },
-    {
-      "name": "Wavescape",
-      "regex": "wavescape"
-    },
-    {
       "name": "Airscape",
       "regex": "airscape"
-    },
-    {
-      "name": "Speed Blade",
-      "regex": "speed"
     },
     {
       "name": "Oxygen",
       "regex": "oxygen"
     },
     {
+      "name": "Pureflip",
+      "regex": "pureflip"
+    },
+    {
+      "name": "Quad",
+      "regex": "quad"
+    },
+    {
       "name": "Racing Blade",
       "regex": "racing"
+    },
+    {
+      "name": "Speed Blade",
+      "regex": "speed"
     },
     {
       "name": "Switch Blade",
       "regex": "switch"
     },
     {
-      "name": "Quad",
-      "regex": "quad"
+      "name": "Wavescape",
+      "regex": "wavescape"
     }
   ]
 }

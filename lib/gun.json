@@ -5,6 +5,18 @@
   },
   "models": [
     {
+      "name": "Aqua",
+      "regex": "aqua"
+    },
+    {
+      "name": "Beat",
+      "regex": "beat"
+    },
+    {
+      "name": "Blow",
+      "regex": "blow"
+    },
+    {
       "name": "Dragon Sail",
       "regex": "dragon"
     },
@@ -13,12 +25,8 @@
       "regex": "gs[ -]r"
     },
     {
-      "name": "Vector",
-      "regex": "vector"
-    },
-    {
-      "name": "Sunray",
-      "regex": "sunray"
+      "name": "Peak",
+      "regex": "peak"
     },
     {
       "name": "Rapid",
@@ -29,8 +37,8 @@
       "regex": "stream"
     },
     {
-      "name": "Beat",
-      "regex": "beat"
+      "name": "Sunray",
+      "regex": "sunray"
     },
     {
       "name": "Torro",
@@ -41,16 +49,8 @@
       "regex": "transwave"
     },
     {
-      "name": "Peak",
-      "regex": "peak"
-    },
-    {
-      "name": "Aqua",
-      "regex": "aqua"
-    },
-    {
-      "name": "Blow",
-      "regex": "blow"
+      "name": "Vector",
+      "regex": "vector"
     }
   ]
 }

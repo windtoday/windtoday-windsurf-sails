@@ -9,10 +9,6 @@
       "regex": "blade"
     },
     {
-      "name": "Reflex",
-      "regex": "reflex"
-    },
-    {
       "name": "Gator",
       "regex": "gator"
     },
@@ -21,20 +17,24 @@
       "regex": "ncx"
     },
     {
-      "name": "Turbo",
-      "regex": "turbo"
+      "name": "Overdrive",
+      "regex": "overdrive"
     },
     {
-      "name": "Unit",
-      "regex": "unit"
+      "name": "Reflex",
+      "regex": "reflex"
     },
     {
       "name": "S-3",
       "regex": "s.?3"
     },
     {
-      "name": "Overdrive",
-      "regex": "overdrive"
+      "name": "Turbo",
+      "regex": "turbo"
+    },
+    {
+      "name": "Unit",
+      "regex": "unit"
     }
   ]
 }

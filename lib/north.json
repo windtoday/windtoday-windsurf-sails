@@ -5,32 +5,32 @@
   },
   "models": [
     {
-      "name": "Warp",
-      "regex": "warp"
-    },
-    {
-      "name": "Ram",
-      "regex": "ram"
+      "name": "E_TYPE",
+      "regex": "e.?type"
     },
     {
       "name": "Hero",
       "regex": "hero"
     },
     {
-      "name": "X_TYPE",
-      "regex": "x.?type"
-    },
-    {
-      "name": "E_TYPE",
-      "regex": "e.?type"
-    },
-    {
       "name": "Ice",
       "regex": "ice"
     },
     {
+      "name": "Ram",
+      "regex": "ram"
+    },
+    {
       "name": "Voodoo",
       "regex": "voodoo"
+    },
+    {
+      "name": "Warp",
+      "regex": "warp"
+    },
+    {
+      "name": "X_TYPE",
+      "regex": "x.?type"
     }
   ]
 }

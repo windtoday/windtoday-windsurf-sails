@@ -5,8 +5,8 @@
   },
   "models": [
     {
-      "name": "Guru",
-      "regex": "guru"
+      "name": "Banzai",
+      "regex": "banzai"
     },
     {
       "name": "Eclipse",
@@ -17,8 +17,8 @@
       "regex": "fringe"
     },
     {
-      "name": "Banzai",
-      "regex": "banzai"
+      "name": "Guru",
+      "regex": "guru"
     }
   ]
 }

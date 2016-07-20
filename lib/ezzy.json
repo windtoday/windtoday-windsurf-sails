@@ -9,36 +9,36 @@
       "regex": "cheetah"
     },
     {
-      "name": "Lion",
-      "regex": "lion"
-    },
-    {
       "name": "Elite",
       "regex": "elite"
-    },
-    {
-      "name": "Tiger",
-      "regex": "tiger"
-    },
-    {
-      "name": "Taka",
-      "regex": "taka"
-    },
-    {
-      "name": "Legacy",
-      "regex": "legacy"
     },
     {
       "name": "Infinity",
       "regex": "infinity"
     },
     {
-      "name": "Zephyr",
-      "regex": "zephyr"
+      "name": "Legacy",
+      "regex": "legacy"
+    },
+    {
+      "name": "Lion",
+      "regex": "lion"
     },
     {
       "name": "Panther",
       "regex": "panther"
+    },
+    {
+      "name": "Taka",
+      "regex": "taka"
+    },
+    {
+      "name": "Tiger",
+      "regex": "tiger"
+    },
+    {
+      "name": "Zephyr",
+      "regex": "zephyr"
     }
   ]
 }

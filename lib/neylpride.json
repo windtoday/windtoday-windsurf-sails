@@ -5,8 +5,12 @@
   },
   "models": [
     {
-      "name": "Hellcat",
-      "regex": "hellcat"
+      "name": "Alpha",
+      "regex": "alpha"
+    },
+    {
+      "name": "Atlas",
+      "regex": "atlas"
     },
     {
       "name": "Combat",
@@ -17,16 +21,12 @@
       "regex": "firefly"
     },
     {
-      "name": "Alpha",
-      "regex": "alpha"
+      "name": "Hellcat",
+      "regex": "hellcat"
     },
     {
       "name": "Solo",
       "regex": "solo"
-    },
-    {
-      "name": "Atlas",
-      "regex": "atlas"
     }
   ]
 }

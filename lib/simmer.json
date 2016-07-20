@@ -5,12 +5,12 @@
   },
   "models": [
     {
-      "name": "Icon",
-      "regex": "icon"
-    },
-    {
       "name": "Blacktip",
       "regex": "blacktip"
+    },
+    {
+      "name": "Icon",
+      "regex": "icon"
     },
     {
       "name": "SCR",

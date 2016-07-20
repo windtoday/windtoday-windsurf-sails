@@ -23,7 +23,11 @@
   "devDependencies": {
     "coveralls": "latest",
     "git-dirty": "latest",
+    "husky": "latest",
+    "json-future": "latest",
+    "lodash": "latest",
     "nyc": "latest",
+    "sort-keys-recursive": "latest",
     "standard": "latest"
   },
   "engines": {
@@ -33,6 +37,7 @@
     "clean": "rm -rf node_modules",
     "coveralls": "nyc report --reporter=text-lcov | coveralls",
     "lint": "standard lib index.js",
+    "precommit": "node sort",
     "pretest": "npm run lint",
     "test": "nyc mocha"
   },

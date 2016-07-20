@@ -5,48 +5,48 @@
   },
   "models": [
     {
-      "name": "Manic",
-      "regex": "manic"
-    },
-    {
-      "name": "IQ",
-      "regex": "iq"
-    },
-    {
-      "name": "Poison",
-      "regex": "poison"
-    },
-    {
-      "name": "Matrix",
-      "regex": "matrix"
-    },
-    {
-      "name": "Flow",
-      "regex": "flow"
-    },
-    {
-      "name": "Pilot",
-      "regex": "pilot"
-    },
-    {
-      "name": "Vapor",
-      "regex": "vapor"
-    },
-    {
-      "name": "Phantom",
-      "regex": "phantom"
-    },
-    {
-      "name": "Savage",
-      "regex": "savage"
-    },
-    {
       "name": "Cosmic",
       "regex": "cosmic"
     },
     {
       "name": "Cross",
       "regex": "cross"
+    },
+    {
+      "name": "Flow",
+      "regex": "flow"
+    },
+    {
+      "name": "IQ",
+      "regex": "iq"
+    },
+    {
+      "name": "Manic",
+      "regex": "manic"
+    },
+    {
+      "name": "Matrix",
+      "regex": "matrix"
+    },
+    {
+      "name": "Phantom",
+      "regex": "phantom"
+    },
+    {
+      "name": "Pilot",
+      "regex": "pilot"
+    },
+    {
+      "name": "Poison",
+      "regex": "poison"
+    },
+    {
+      "name": "Savage",
+      "regex": "savage"
+    },
+    {
+      "name": "Vapor",
+      "regex": "vapor"
     }
   ]
 }
