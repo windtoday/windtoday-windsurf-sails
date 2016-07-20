@@ -1,9 +1,13 @@
 {
   "brand": {
-    "name": "Severne",
+    "name": "Severne Sails",
     "regex": "severne"
   },
   "models": [
+    {
+      "name": "Blade",
+      "regex": "blade"
+    },
     {
       "name": "Reflex",
       "regex": "reflex"
@@ -19,6 +23,18 @@
     {
       "name": "Turbo",
       "regex": "turbo"
+    },
+    {
+      "name": "Unit",
+      "regex": "unit"
+    },
+    {
+      "name": "S-3",
+      "regex": "s.?3"
+    },
+    {
+      "name": "Overdrive",
+      "regex": "overdrive"
     }
   ]
 }

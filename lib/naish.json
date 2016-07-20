@@ -1,12 +1,28 @@
 {
   "brand": {
-    "name": "Naish",
+    "name": "Naish Sails",
     "regex": "naish"
   },
   "models": [
     {
       "name": "Force",
       "regex": "force"
+    },
+    {
+      "name": "Sprint",
+      "regex": "sprint"
+    },
+    {
+      "name": "NOA",
+      "regex": "noa"
+    },
+    {
+      "name": "X2",
+      "regex": "x2"
+    },
+    {
+      "name": "Scout",
+      "regex": "scout"
     }
   ]
 }
