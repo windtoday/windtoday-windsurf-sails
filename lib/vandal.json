@@ -3,5 +3,30 @@
     "name": "Vandal",
     "regex": "vandal"
   },
-  "models": []
+  "models": [
+    {
+      "name": "Addict",
+      "regex": "addict"
+    },
+    {
+      "name": "Enemy HD",
+      "regex": "enemy"
+    },
+    {
+      "name": "Mission",
+      "regex": "mission"
+    },
+    {
+      "name": "Riot",
+      "regex": "riot"
+    },
+    {
+      "name": "Stitch",
+      "regex": "stitch"
+    },
+    {
+      "name": "Venture",
+      "regex": "venture"
+    }
+  ]
 }
