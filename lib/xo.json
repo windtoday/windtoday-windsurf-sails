@@ -3,5 +3,30 @@
     "name": "XO",
     "regex": "xo|exocet"
   },
-  "models": []
+  "models": [
+    {
+      "name": "EOL",
+      "regex": "eol"
+    },
+    {
+      "name": "Gold",
+      "regex": "gold"
+    },
+    {
+      "name": "Quad",
+      "regex": "quad"
+    },
+    {
+      "name": "Shark",
+      "regex": "shark"
+    },
+    {
+      "name": "Silver",
+      "regex": "silver"
+    },
+    {
+      "name": "Skull",
+      "regex": "skull"
+    }
+  ]
 }
