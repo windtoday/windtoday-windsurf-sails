@@ -3,5 +3,38 @@
     "name": "Aerotech",
     "regex": "aerotech"
   },
-  "models": []
+  "models": [
+    {
+      "name": "Action",
+      "regex": "action"
+    },
+    {
+      "name": "Air X",
+      "regex": "air"
+    },
+    {
+      "name": "Charge",
+      "regex": "charge"
+    },
+    {
+      "name": "Dagger",
+      "regex": "dagger"
+    },
+    {
+      "name": "Freespeed",
+      "regex": "freespeed"
+    },
+    {
+      "name": "Phantom",
+      "regex": "phantom"
+    },
+    {
+      "name": "Rapidfire",
+      "regex": "rapidfire"
+    },
+    {
+      "name": "Vice",
+      "regex": "vice"
+    }
+  ]
 }
