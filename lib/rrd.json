@@ -3,5 +3,42 @@
     "name": "RRD",
     "regex": "rrd"
   },
-  "models": []
+  "models": [
+    {
+      "name": "Evolution",
+      "regex": "evolution"
+    },
+    {
+      "name": "Fire",
+      "regex": "fire"
+    },
+    {
+      "name": "Firewing",
+      "regex": "firewing"
+    },
+    {
+      "name": "Four",
+      "regex": "four"
+    },
+    {
+      "name": "Gamma",
+      "regex": "gamma"
+    },
+    {
+      "name": "Move",
+      "regex": "move"
+    },
+    {
+      "name": "Style",
+      "regex": "style"
+    },
+    {
+      "name": "Vogue",
+      "regex": "vogue"
+    },
+    {
+      "name": "X-Tra",
+      "regex": "tra"
+    }
+  ]
 }
