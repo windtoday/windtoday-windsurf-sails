@@ -1,0 +1,40 @@
+{
+  "brand": {
+    "name": "Hot Maui",
+    "regex": "hot"
+  },
+  "models": [
+    {
+      "name": "Firelight",
+      "regex": "firelight"
+    },
+    {
+      "name": "Freestyle",
+      "regex": "freestyle"
+    },
+    {
+      "name": "GPS",
+      "regex": "gps"
+    },
+    {
+      "name": "GPX",
+      "regex": "gpx"
+    },
+    {
+      "name": "KS3",
+      "regex": "ks3"
+    },
+    {
+      "name": "Micro",
+      "regex": "micro"
+    },
+    {
+      "name": "Qu4d",
+      "regex": "qu[a4]d"
+    },
+    {
+      "name": "Superfreak",
+      "regex": "superfreak"
+    }
+  ]
+}
