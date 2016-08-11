@@ -6,15 +6,15 @@
   "models": [
     {
       "name": "Airscape",
-      "regex": "airscape"
+      "regex": "air[ ]?scape"
     },
     {
       "name": "Oxygen",
       "regex": "oxygen"
     },
     {
-      "name": "Pureflip",
-      "regex": "pureflip"
+      "name": "Purelip",
+      "regex": "pure[ ]?lip"
     },
     {
       "name": "Quad",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Wavescape",
-      "regex": "wavescape"
+      "regex": "wave[ ]?scape"
     }
   ]
 }
