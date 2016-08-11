@@ -1,0 +1,32 @@
+{
+  "brand": {
+    "name": "Avanti",
+    "regex": "avanti"
+  },
+  "models": [
+    {
+      "name": "Condor",
+      "regex": "condor"
+    },
+    {
+      "name": "Echo ME",
+      "regex": "echo"
+    },
+    {
+      "name": "Fenix",
+      "regex": "fenix"
+    },
+    {
+      "name": "Machine M-4",
+      "regex": "machine"
+    },
+    {
+      "name": "Poweride ME",
+      "regex": "poweride"
+    },
+    {
+      "name": "Viper",
+      "regex": "viper"
+    }
+  ]
+}
