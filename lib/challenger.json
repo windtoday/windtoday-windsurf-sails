@@ -3,5 +3,34 @@
     "name": "Challenger",
     "regex": "challenger"
   },
-  "models": []
+  "models": [
+    {
+      "name": "4Pro",
+      "regex": "4pro"
+    },
+    {
+      "name": "Aero+",
+      "regex": "aero"
+    },
+    {
+      "name": "FluidoT3",
+      "regex": "fluido"
+    },
+    {
+      "name": "GT2Wing",
+      "regex": "gt2"
+    },
+    {
+      "name": "Konda",
+      "regex": "k[- ]?onda"
+    },
+    {
+      "name": "Liquido",
+      "regex": "liquido"
+    },
+    {
+      "name": "Three-G",
+      "regex": "three"
+    }
+  ]
 }
