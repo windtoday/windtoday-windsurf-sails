@@ -1,0 +1,44 @@
+{
+  "brand": {
+    "name": "Maui",
+    "regex": "maui"
+  },
+  "models": [
+    {
+      "name": "Epic",
+      "regex": "epic"
+    },
+    {
+      "name": "Ghost",
+      "regex": "ghost"
+    },
+    {
+      "name": "Global",
+      "regex": "global"
+    },
+    {
+      "name": "Legend",
+      "regex": "legend"
+    },
+    {
+      "name": "Loco",
+      "regex": "loco"
+    },
+    {
+      "name": "Mutant",
+      "regex": "mutant"
+    },
+    {
+      "name": "Scream",
+      "regex": "scream"
+    },
+    {
+      "name": "Switch",
+      "regex": "switch"
+    },
+    {
+      "name": "Titan",
+      "regex": "titan"
+    }
+  ]
+}
