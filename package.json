@@ -5,8 +5,8 @@
   "version": "0.0.0",
   "main": "index.js",
   "author": {
-    "name": "Kiko Beats",
     "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
     "url": "https://github.com/Kikobeats"
   },
   "repository": {
@@ -16,18 +16,22 @@
   "bugs": {
     "url": "https://github.com/windtoday/windtoday-sails/issues"
   },
-  "keywords": [],
+  "keywords": [
+    "directory",
+    "sails",
+    "windsurf",
+    "windtoday"
+  ],
   "dependencies": {
     "req-all": "~0.1.0"
   },
   "devDependencies": {
-    "coveralls": "latest",
     "git-dirty": "latest",
     "husky": "latest",
     "json-future": "latest",
+    "json-is-equal": "latest",
     "lodash": "latest",
-    "nyc": "latest",
-    "sort-keys-recursive": "latest",
+    "sort-keys": "latest",
     "standard": "latest"
   },
   "engines": {
@@ -35,11 +39,8 @@
   },
   "scripts": {
     "clean": "rm -rf node_modules",
-    "coveralls": "nyc report --reporter=text-lcov | coveralls",
-    "lint": "standard lib index.js",
-    "precommit": "node sort",
-    "pretest": "npm run lint",
-    "test": "nyc mocha"
+    "precommit": "node scripts/sort",
+    "test": "node scripts/lint"
   },
   "license": "MIT"
 }
