@@ -3,5 +3,38 @@
     "name": "Point-7",
     "regex": "point"
   },
-  "models": []
+  "models": [
+    {
+      "name": "ACF",
+      "regex": "ac[ -]?f"
+    },
+    {
+      "name": "ACK",
+      "regex": "ac[ -?]k"
+    },
+    {
+      "name": "ACONE",
+      "regex": "ac[ -?]one"
+    },
+    {
+      "name": "ACX",
+      "regex": "ac[ -?]x"
+    },
+    {
+      "name": "Salt",
+      "regex": "salt"
+    },
+    {
+      "name": "Slash",
+      "regex": "slash"
+    },
+    {
+      "name": "Spy",
+      "regex": "spy"
+    },
+    {
+      "name": "Swag",
+      "regex": "swag"
+    }
+  ]
 }

@@ -6,7 +6,7 @@
   "models": [
     {
       "name": "Firelight",
-      "regex": "firelight"
+      "regex": "fire[ ]?light"
     },
     {
       "name": "Freestyle",
@@ -31,6 +31,10 @@
     {
       "name": "Qu4d",
       "regex": "qu[a4]d"
+    },
+    {
+      "name": "Smack",
+      "regex": "smack"
     },
     {
       "name": "Superfreak",

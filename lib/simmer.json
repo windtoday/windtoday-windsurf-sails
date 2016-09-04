@@ -5,16 +5,48 @@
   },
   "models": [
     {
+      "name": "2xc",
+      "regex": "2xc"
+    },
+    {
+      "name": "Ace",
+      "regex": "ace"
+    },
+    {
+      "name": "Apex",
+      "regex": "apex"
+    },
+    {
       "name": "Blacktip",
-      "regex": "blacktip"
+      "regex": "black[ ]?tip"
+    },
+    {
+      "name": "Enduro",
+      "regex": "enduro"
     },
     {
       "name": "Icon",
       "regex": "icon"
     },
     {
+      "name": "Novex",
+      "regex": "novex"
+    },
+    {
       "name": "SCR",
       "regex": "scr"
+    },
+    {
+      "name": "SCS",
+      "regex": "scs"
+    },
+    {
+      "name": "Tricera",
+      "regex": "tricera"
+    },
+    {
+      "name": "Vmax",
+      "regex": "v[ -]?max"
     }
   ]
 }

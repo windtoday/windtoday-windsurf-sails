@@ -17,16 +17,48 @@
       "regex": "combat"
     },
     {
+      "name": "Core",
+      "regex": "core"
+    },
+    {
+      "name": "Evo",
+      "regex": "evo"
+    },
+    {
       "name": "FireFly",
       "regex": "firefly"
+    },
+    {
+      "name": "Fusion",
+      "regex": "fusion"
+    },
+    {
+      "name": "H2",
+      "regex": "h2"
     },
     {
       "name": "Hellcat",
       "regex": "hellcat"
     },
     {
+      "name": "Hornet",
+      "regex": "hornet"
+    },
+    {
+      "name": "Saber",
+      "regex": "saber"
+    },
+    {
       "name": "Solo",
       "regex": "solo"
+    },
+    {
+      "name": "The Fly",
+      "regex": "fly"
+    },
+    {
+      "name": "vx2",
+      "regex": "vx2"
     }
   ]
 }

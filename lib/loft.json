@@ -9,6 +9,10 @@
       "regex": "air[ ]?scape"
     },
     {
+      "name": "Lip Wave",
+      "regex": "lip[ ]?wave"
+    },
+    {
       "name": "Oxygen",
       "regex": "oxygen"
     },

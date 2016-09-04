@@ -21,6 +21,10 @@
       "regex": "iq"
     },
     {
+      "name": "MX4",
+      "regex": "mx4"
+    },
+    {
       "name": "Manic",
       "regex": "manic"
     },
