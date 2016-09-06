@@ -29,6 +29,10 @@
       "regex": "icon"
     },
     {
+      "name": "Mission",
+      "regex": "mission"
+    },
+    {
       "name": "Novex",
       "regex": "novex"
     },
