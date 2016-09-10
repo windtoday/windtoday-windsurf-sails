@@ -5,6 +5,10 @@
   },
   "models": [
     {
+      "name": "Daytona",
+      "regex": "daytona"
+    },
+    {
       "name": "E_TYPE",
       "regex": "e.?type"
     },

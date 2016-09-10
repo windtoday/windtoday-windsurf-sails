@@ -53,8 +53,16 @@
       "regex": "solo"
     },
     {
+      "name": "Tempo",
+      "regex": "tempo"
+    },
+    {
       "name": "The Fly",
       "regex": "fly"
+    },
+    {
+      "name": "Wizard",
+      "regex": "wizard"
     },
     {
       "name": "vx2",
