@@ -15,7 +15,7 @@ function noopExport () {
 
 function regex (pattern, str, opts) {
   opts = opts || 'i'
-  return new RegExp(pattern, opts).test(str)
+  return RegExp(pattern, opts).test(str)
 }
 
 function dir (str, opts) {
