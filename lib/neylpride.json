@@ -67,10 +67,6 @@
     {
       "name": "Zone",
       "regex": "zone"
-    },
-    {
-      "name": "vx2",
-      "regex": "vx2"
     }
   ]
 }
