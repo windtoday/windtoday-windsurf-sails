@@ -14,7 +14,7 @@
     },
     {
       "name": "Oxygen",
-      "regex": "oxygen"
+      "regex": "oxygen|o2"
     },
     {
       "name": "Purelip",

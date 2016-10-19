@@ -22,7 +22,7 @@
     },
     {
       "name": "GS-R",
-      "regex": "gs[ -]r"
+      "regex": "gs[ -?]r"
     },
     {
       "name": "Peak",

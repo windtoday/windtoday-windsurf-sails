@@ -5,6 +5,14 @@
   },
   "models": [
     {
+      "name": "Boxer",
+      "regex": "boxer"
+    },
+    {
+      "name": "Bullet",
+      "regex": "bullet"
+    },
+    {
       "name": "Force",
       "regex": "force"
     },

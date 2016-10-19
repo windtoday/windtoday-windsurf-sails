@@ -5,20 +5,20 @@
   },
   "models": [
     {
-      "name": "ACF",
+      "name": "AC-F",
       "regex": "ac[ -]?f"
     },
     {
-      "name": "ACK",
-      "regex": "ac[ -?]k"
+      "name": "AC-K",
+      "regex": "ac[ -]?k"
     },
     {
-      "name": "ACONE",
-      "regex": "ac[ -?]one"
+      "name": "AC-ONE",
+      "regex": "ac[ -]?one"
     },
     {
-      "name": "ACX",
-      "regex": "ac[ -?]x"
+      "name": "AC-X",
+      "regex": "ac[ -]?x"
     },
     {
       "name": "Salt",
