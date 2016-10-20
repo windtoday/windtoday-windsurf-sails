@@ -1,7 +1,7 @@
 {
   "brand": {
-    "name": "GA",
-    "regex": "gaastra|ga"
+    "name": "Gaastra",
+    "regex": "gaastra|ga[ -]sails"
   },
   "models": [
     {
