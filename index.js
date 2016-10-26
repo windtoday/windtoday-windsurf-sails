@@ -4,45 +4,30 @@ var directory = require('req-all')('lib')
 var find = require('lodash.find')
 var get = require('lodash.get')
 
-function noop () {}
-
-function noopExport () {
-  return {
-    brand: noop,
-    model: noop
-  }
-}
-
 function regex (pattern, str, opts) {
   opts = opts || 'i'
   return RegExp(pattern, opts).test(str)
 }
 
 function dir (str, opts) {
-  var data = find(directory, function (item) {
+  var brand = find(directory, function (item) {
     var pattern = item.brand.regex
     return regex(pattern, str, opts)
   })
 
-  if (!data) return noopExport()
+  if (!brand) return {}
 
-  function brand () {
-    return get(data, 'brand.name')
-  }
-
-  function model () {
-    var models = get(data, 'models')
-
-    models = find(models, function (model) {
-      return regex(model.regex, str, opts)
-    })
-
-    return get(models, 'name')
-  }
+  var brandName = get(brand, 'brand.name')
+  var models = get(brand, 'models')
+  var model = find(models, function (model) {
+    var pattern = model.regex
+    return regex(pattern, str, opts)
+  })
+  var modelName = get(model, 'name')
 
   return {
-    brand: brand,
-    model: model
+    brand: brandName,
+    model: modelName
   }
 }
 
