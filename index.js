@@ -10,25 +10,26 @@ function regex (pattern, str, opts) {
 }
 
 function dir (str, opts) {
+  var result = {}
+
   var brand = find(directory, function (item) {
     var pattern = item.brand.regex
     return regex(pattern, str, opts)
   })
 
-  if (!brand) return {}
+  if (!brand) return result
+  result.brand = get(brand, 'brand.name')
 
-  var brandName = get(brand, 'brand.name')
   var models = get(brand, 'models')
   var model = find(models, function (model) {
     var pattern = model.regex
     return regex(pattern, str, opts)
   })
-  var modelName = get(model, 'name')
 
-  return {
-    brand: brandName,
-    model: modelName
-  }
+  if (!model) return result
+  result.model = get(model, 'name')
+
+  return result
 }
 
 module.exports = dir
