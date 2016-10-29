@@ -1,0 +1,28 @@
+{
+  "brand": {
+    "name": "Attitude",
+    "regex": "attitude"
+  },
+  "models": [
+    {
+      "name": "AllStars",
+      "regex": "allstar"
+    },
+    {
+      "name": "Hornet",
+      "regex": "hornet"
+    },
+    {
+      "name": "RPM",
+      "regex": "rpm"
+    },
+    {
+      "name": "Rebel",
+      "regex": "rebel"
+    },
+    {
+      "name": "Source",
+      "regex": "source"
+    }
+  ]
+}
