@@ -1,7 +1,7 @@
 {
   "brand": {
     "name": "Point-7",
-    "regex": "point"
+    "regex": "point[ -]?7"
   },
   "models": [
     {
