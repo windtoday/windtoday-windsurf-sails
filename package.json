@@ -25,7 +25,8 @@
   "dependencies": {
     "lodash.find": "~4.6.0",
     "lodash.get": "~4.4.2",
-    "req-all": "~0.1.0"
+    "req-all": "~0.1.0",
+    "str-match": "~1.0.0"
   },
   "devDependencies": {
     "coveralls": "latest",
@@ -34,15 +35,19 @@
     "json-future": "latest",
     "json-is-equal": "latest",
     "lodash": "latest",
-    "sort-keys": "latest",
     "mocha": "latest",
     "nyc": "latest",
     "should": "latest",
+    "sort-keys": "latest",
     "standard": "latest"
   },
   "engines": {
     "node": ">= 0.10"
   },
+  "files": [
+    "index.js",
+    "lib"
+  ],
   "scripts": {
     "clean": "rm -rf node_modules",
     "coveralls": "nyc report --reporter=text-lcov | coveralls",

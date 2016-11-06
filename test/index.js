@@ -5,19 +5,25 @@ require('should')
 
 describe('directory', function () {
   it('nothing to detect', function () {
-    directory('').should.be.eql({})
+    const { sail, output } = directory('')
+    sail.should.be.eql({})
   })
 
   it('only detect brand', function () {
-    directory('ezzy').should.be.eql({
+    const { sail, output } = directory('ezzy')
+    sail.should.be.eql({
       brand: 'Ezzy'
     })
   })
 
   it('detect brand and model', function () {
-    directory('ezzy panther').should.be.eql({
+    const {sail, output} = directory('vendo vela ezzy panther')
+
+    sail.should.be.eql({
       brand: 'Ezzy',
       model: 'Panther'
     })
+
+    output.should.be.eql('vendo vela  ')
   })
 })

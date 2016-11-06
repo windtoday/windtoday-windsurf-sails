@@ -1,43 +1,24 @@
 'use strict'
 
-var directory = require('req-all')('lib')
-var find = require('lodash.find')
-var get = require('lodash.get')
-
-function regex (pattern, str, opts) {
-  opts = opts || 'i'
-  return RegExp(pattern, opts).test(str)
-}
-
-function findBrand (brands, str, opts) {
-  return find(brands, function (item) {
-    var pattern = item.brand.regex
-    return regex(pattern, str, opts)
-  })
-}
-
-function findModel (models, str, opts) {
-  return find(models, function (model) {
-    var pattern = model.regex
-    return regex(pattern, str, opts)
-  })
-}
+const directory = require('req-all')('./lib/dir')
+const findBrand = require('./lib/find-brand')
+const findModel = require('./lib/find-model')
+const get = require('lodash.get')
 
 function dir (str, opts) {
-  var result = {}
+  const sail = {}
+  const {brand, brandData} = findBrand(directory, str, opts)
 
-  var brand = findBrand(directory, str, opts)
+  if (!brand) return {sail}
+  sail.brand = get(brand, 'brand.name')
 
-  if (!brand) return result
-  result.brand = get(brand, 'brand.name')
+  const models = get(brand, 'models')
+  const {model, modelData} = findModel(models, brandData.output, opts)
 
-  var models = get(brand, 'models')
-  var model = findModel(models, str, opts)
+  if (!model) return {sail, output: brandData.output}
+  sail.model = get(model, 'name')
 
-  if (!model) return result
-  result.model = get(model, 'name')
-
-  return result
+  return {sail, output: modelData.output}
 }
 
 module.exports = dir

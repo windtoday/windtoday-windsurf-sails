@@ -1,6 +1,6 @@
 'use strict'
 
-var files = require('req-all')('../lib')
+var files = require('req-all')('../lib/dir')
 var jsonFuture = require('json-future')
 var sortKeys = require('sort-keys')
 var lodash = require('lodash')
@@ -10,6 +10,6 @@ lodash.forEach(files, function (file, filename) {
   var sortedFile = sortKeys(file, {deep: true})
   sortedFile.models = lodash.sortBy(sortedFile.models, 'name')
 
-  var filepath = path.resolve('lib', filename + '.json')
+  var filepath = path.resolve('lib/dir', filename + '.json')
   jsonFuture.save(filepath, sortedFile)
 })
