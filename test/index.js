@@ -4,26 +4,37 @@ var directory = require('..')
 require('should')
 
 describe('directory', function () {
-  it('nothing to detect', function () {
-    const { sail } = directory('')
-    sail.should.be.eql({})
-  })
+  describe('detection', function () {
+    it('nothing to detect', function () {
+      const { data } = directory('')
+      data.should.be.eql({})
+    })
 
-  it('only detect brand', function () {
-    const { sail } = directory('ezzy')
-    sail.should.be.eql({
-      brand: 'Ezzy'
+    it('only detect brand', function () {
+      const { data } = directory('ezzy')
+      data.should.be.eql({
+        brand: 'Ezzy'
+      })
+    })
+
+    it('detect brand and model', function () {
+      const {data} = directory('vendo vela ezzy panther')
+      data.should.be.eql({
+        brand: 'Ezzy',
+        model: 'Panther'
+      })
     })
   })
 
-  it('detect brand and model', function () {
-    const {sail, output} = directory('vendo vela ezzy panther')
-
-    sail.should.be.eql({
-      brand: 'Ezzy',
-      model: 'Panther'
+  describe('output', function () {
+    it('remove brand', function () {
+      const { output } = directory('vendo vela ezzy')
+      output.should.be.equal('vendo vela ')
     })
 
-    output.should.be.eql('vendo vela  ')
+    it('remove brand and model', function () {
+      const { output } = directory('vendo vela ezzy panther')
+      output.should.be.equal('vendo vela  ')
+    })
   })
 })

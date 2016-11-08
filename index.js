@@ -6,19 +6,21 @@ const findModel = require('./lib/find-model')
 const get = require('lodash.get')
 
 function dir (str, opts) {
-  const sail = {}
-  const {brand, brandData} = findBrand(directory, str, opts)
+  const data = {}
+  const brand = findBrand(directory, str, opts)
+  if (!brand.data) return {data}
 
-  if (!brand) return {sail}
-  sail.brand = get(brand, 'brand.name')
+  data.brand = get(brand.data, 'brand.name')
 
-  const models = get(brand, 'models')
-  const {model, modelData} = findModel(models, brandData.output, opts)
+  const models = get(brand.data, 'models')
+  str = brand.matcher.output
 
-  if (!model) return {sail, output: brandData.output}
-  sail.model = get(model, 'name')
+  const model = findModel(models, str, opts)
 
-  return {sail, output: modelData.output}
+  if (!model.data) return {data, output: brand.matcher.output}
+  data.model = get(model.data, 'name')
+
+  return {data, output: model.matcher.output}
 }
 
 module.exports = dir
