@@ -26,7 +26,7 @@
     "lodash.find": "~4.6.0",
     "lodash.get": "~4.4.2",
     "req-all": "~0.1.0",
-    "str-match": "~2.0.0"
+    "str-match": "~2.1.0"
   },
   "devDependencies": {
     "coveralls": "latest",
