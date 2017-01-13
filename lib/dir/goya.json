@@ -9,6 +9,10 @@
       "regex": "banzai"
     },
     {
+      "name": "Bounce",
+      "regex": "bounce"
+    },
+    {
       "name": "Eclipse",
       "regex": "eclipse"
     },
@@ -19,6 +23,14 @@
     {
       "name": "Guru",
       "regex": "gur[uú]"
+    },
+    {
+      "name": "Mark",
+      "regex": "mark"
+    },
+    {
+      "name": "Nexus",
+      "regex": "nexus"
     }
   ]
 }

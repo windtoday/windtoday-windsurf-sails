@@ -9,6 +9,14 @@
       "regex": "blade"
     },
     {
+      "name": "Convert",
+      "regex": "convert"
+    },
+    {
+      "name": "Freek",
+      "regex": "freek"
+    },
+    {
       "name": "Gator",
       "regex": "gator"
     },
@@ -26,11 +34,11 @@
     },
     {
       "name": "S-1",
-      "regex": "s[ -]?1"
+      "regex": "s.?1"
     },
     {
       "name": "S-3",
-      "regex": "s[ -]?3"
+      "regex": "s.?3"
     },
     {
       "name": "Swat",
