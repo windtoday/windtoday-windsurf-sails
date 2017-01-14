@@ -49,6 +49,10 @@
       "regex": "saber"
     },
     {
+      "name": "Search",
+      "regex": "search"
+    },
+    {
       "name": "Solo",
       "regex": "solo"
     },

@@ -13,6 +13,10 @@
       "regex": "bullet"
     },
     {
+      "name": "Chopper",
+      "regex": "chopper"
+    },
+    {
       "name": "Force",
       "regex": "force"
     },
@@ -23,6 +27,10 @@
     {
       "name": "Scout",
       "regex": "scout"
+    },
+    {
+      "name": "Session",
+      "regex": "session"
     },
     {
       "name": "Sprint",
