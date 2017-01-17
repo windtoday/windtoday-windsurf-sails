@@ -18,7 +18,7 @@
     },
     {
       "name": "Blacktip",
-      "regex": "black[ ]?tip"
+      "regex": "black.?tip"
     },
     {
       "name": "Enduro",

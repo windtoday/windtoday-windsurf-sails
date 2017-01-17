@@ -6,7 +6,7 @@
   "models": [
     {
       "name": "Firelight",
-      "regex": "fire[ ]?light"
+      "regex": "fire.?light"
     },
     {
       "name": "Freestyle",
