@@ -3,5 +3,10 @@
     "name": "Ka",
     "regex": "ka"
   },
-  "models": []
+  "models": [
+    {
+      "name": "Koncept",
+      "regex": "koncept"
+    }
+  ]
 }

@@ -9,7 +9,7 @@
       "regex": "daytona"
     },
     {
-      "name": "E_TYPE",
+      "name": "E TYPE",
       "regex": "e.?type"
     },
     {
@@ -21,8 +21,16 @@
       "regex": "ice"
     },
     {
+      "name": "Idol",
+      "regex": "idol"
+    },
+    {
       "name": "Ram",
       "regex": "ram"
+    },
+    {
+      "name": "S TYPE",
+      "regex": "s.?type"
     },
     {
       "name": "Volt",
@@ -37,7 +45,7 @@
       "regex": "warp"
     },
     {
-      "name": "X_TYPE",
+      "name": "X TYPE",
       "regex": "x.?type"
     }
   ]

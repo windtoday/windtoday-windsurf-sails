@@ -17,6 +17,10 @@
       "regex": "fenix"
     },
     {
+      "name": "M2",
+      "regex": "m2"
+    },
+    {
       "name": "Machine M-4",
       "regex": "machine"
     },

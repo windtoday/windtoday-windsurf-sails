@@ -45,6 +45,10 @@
       "regex": "poison"
     },
     {
+      "name": "Pure",
+      "regex": "pure"
+    },
+    {
       "name": "Savage",
       "regex": "savage"
     },
