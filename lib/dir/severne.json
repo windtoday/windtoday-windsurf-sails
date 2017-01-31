@@ -33,11 +33,11 @@
       "regex": "reflex"
     },
     {
-      "name": "S-1",
+      "name": "S1",
       "regex": "s.?1"
     },
     {
-      "name": "S-3",
+      "name": "S3",
       "regex": "s.?3"
     },
     {

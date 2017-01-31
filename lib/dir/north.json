@@ -9,7 +9,7 @@
       "regex": "daytona"
     },
     {
-      "name": "E TYPE",
+      "name": "EType",
       "regex": "e.?type"
     },
     {
@@ -29,7 +29,7 @@
       "regex": "ram"
     },
     {
-      "name": "S TYPE",
+      "name": "SType",
       "regex": "s.?type"
     },
     {
@@ -45,7 +45,7 @@
       "regex": "warp"
     },
     {
-      "name": "X TYPE",
+      "name": "XType",
       "regex": "x.?type"
     }
   ]
