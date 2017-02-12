@@ -25,6 +25,10 @@
       "regex": "idol"
     },
     {
+      "name": "Natural",
+      "regex": "natural"
+    },
+    {
       "name": "Ram",
       "regex": "ram"
     },
