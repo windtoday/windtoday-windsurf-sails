@@ -5,8 +5,16 @@
   },
   "models": [
     {
+      "name": "Curve",
+      "regex": "curve"
+    },
+    {
       "name": "Daytona",
       "regex": "daytona"
+    },
+    {
+      "name": "Duke",
+      "regex": "duke"
     },
     {
       "name": "EType",
