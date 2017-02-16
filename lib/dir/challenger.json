@@ -22,7 +22,7 @@
     },
     {
       "name": "Konda",
-      "regex": "k[- ]?onda"
+      "regex": "k.?onda"
     },
     {
       "name": "Liquido",

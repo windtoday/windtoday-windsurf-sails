@@ -1,24 +1,24 @@
 {
   "brand": {
     "name": "Point-7",
-    "regex": "point[ -]?7"
+    "regex": "point.?7"
   },
   "models": [
     {
       "name": "AC-F",
-      "regex": "ac[ -]?f"
+      "regex": "ac.?f"
     },
     {
       "name": "AC-K",
-      "regex": "ac[ -]?k"
+      "regex": "ac.?k"
     },
     {
       "name": "AC-ONE",
-      "regex": "ac[ -]?one"
+      "regex": "ac.?(?:1|one)"
     },
     {
       "name": "AC-X",
-      "regex": "ac[ -]?x"
+      "regex": "ac.?x"
     },
     {
       "name": "Salt",
