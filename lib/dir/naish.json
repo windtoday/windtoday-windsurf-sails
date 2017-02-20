@@ -17,8 +17,16 @@
       "regex": "chopper"
     },
     {
+      "name": "Cruz",
+      "regex": "cruz"
+    },
+    {
       "name": "Force",
       "regex": "force"
+    },
+    {
+      "name": "Indy",
+      "regex": "indy"
     },
     {
       "name": "Noa",
@@ -35,6 +43,10 @@
     {
       "name": "Sprint",
       "regex": "sprint"
+    },
+    {
+      "name": "Supermoto",
+      "regex": "super.?moto"
     },
     {
       "name": "X2",
