@@ -17,6 +17,10 @@
       "regex": "flow"
     },
     {
+      "name": "Hybrid",
+      "regex": "hybrid"
+    },
+    {
       "name": "IQ",
       "regex": "iq"
     },

@@ -25,12 +25,20 @@
       "regex": "force"
     },
     {
+      "name": "Gran Prix",
+      "regex": "grand.?prix"
+    },
+    {
       "name": "Indy",
       "regex": "indy"
     },
     {
       "name": "Noa",
       "regex": "noa"
+    },
+    {
+      "name": "Rally",
+      "regex": "rally"
     },
     {
       "name": "Scout",
