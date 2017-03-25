@@ -41,6 +41,10 @@
       "regex": "rally"
     },
     {
+      "name": "SL",
+      "regex": "sl"
+    },
+    {
       "name": "Scout",
       "regex": "scout"
     },
@@ -51,6 +55,10 @@
     {
       "name": "Sprint",
       "regex": "sprint"
+    },
+    {
+      "name": "Stealth",
+      "regex": "stealth"
     },
     {
       "name": "Supermoto",
