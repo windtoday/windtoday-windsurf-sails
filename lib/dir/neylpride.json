@@ -45,6 +45,18 @@
       "regex": "hornet"
     },
     {
+      "name": "LT",
+      "regex": "lt"
+    },
+    {
+      "name": "RS",
+      "regex": "rs"
+    },
+    {
+      "name": "Ryde",
+      "regex": "ryde"
+    },
+    {
       "name": "Saber",
       "regex": "saber"
     },
@@ -63,6 +75,10 @@
     {
       "name": "The Fly",
       "regex": "fly"
+    },
+    {
+      "name": "V8",
+      "regex": "v8"
     },
     {
       "name": "Wizard",
