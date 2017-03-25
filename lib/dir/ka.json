@@ -5,8 +5,40 @@
   },
   "models": [
     {
+      "name": "Kamikaze",
+      "regex": "kamikaze"
+    },
+    {
+      "name": "Kaos",
+      "regex": "kaos"
+    },
+    {
+      "name": "Killer",
+      "regex": "killer"
+    },
+    {
       "name": "Koncept",
       "regex": "koncept"
+    },
+    {
+      "name": "Koyote",
+      "regex": "koyote"
+    },
+    {
+      "name": "Kruze",
+      "regex": "kruze"
+    },
+    {
+      "name": "Kryptonite",
+      "regex": "kryptonite"
+    },
+    {
+      "name": "Kult",
+      "regex": "kult"
+    },
+    {
+      "name": "Race",
+      "regex": "race"
     }
   ]
 }
