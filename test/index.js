@@ -1,40 +1,30 @@
 'use strict'
 
-var directory = require('..')
-require('should')
+const directory = require('..')
+const should = require('should')
 
 describe('directory', function () {
-  describe('detection', function () {
-    it('nothing to detect', function () {
-      const { data } = directory('')
-      data.should.be.eql({})
-    })
-
-    it('only detect brand', function () {
-      const { data } = directory('ezzy')
-      data.should.be.eql({
-        brand: 'Ezzy'
-      })
-    })
-
-    it('detect brand and model', function () {
-      const {data} = directory('vendo vela ezzy panther')
-      data.should.be.eql({
-        brand: 'Ezzy',
-        model: 'Panther'
-      })
+  it('under non detection, output is the string input', function () {
+    const result = directory('foo')
+    should(result).be.eql({
+      data: {},
+      output: 'foo'
     })
   })
 
-  describe('output', function () {
-    it('remove brand', function () {
-      const { output } = directory('vendo vela ezzy')
-      output.should.be.equal('vendo vela ')
+  it('only detect brand', function () {
+    const result = directory('ezzy')
+    should(result).be.eql({
+      data: { brand: 'Ezzy' },
+      output: ''
     })
+  })
 
-    it('remove brand and model', function () {
-      const { output } = directory('vendo vela ezzy panther')
-      output.should.be.equal('vendo vela  ')
+  it('detect brand and model', function () {
+    const result = directory('vendo vela ezzy panther')
+    should(result).be.eql({
+      data: { brand: 'Ezzy', model: 'Panther' },
+      output: 'vendo vela  '
     })
   })
 })

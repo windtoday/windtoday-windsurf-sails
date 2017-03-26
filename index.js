@@ -8,7 +8,7 @@ const get = require('lodash.get')
 function dir (str, opts) {
   const data = {}
   const brand = findBrand(directory, str, opts)
-  if (!brand.data) return {data}
+  if (!brand.data) return {data, output: str}
 
   data.brand = get(brand.data, 'brand.name')
 
