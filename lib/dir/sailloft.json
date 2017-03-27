@@ -1,0 +1,36 @@
+{
+  "brand": {
+    "name": "Sailloft",
+    "regex": "sail.?loft"
+  },
+  "models": [
+    {
+      "name": "Bionic",
+      "regex": "bionic"
+    },
+    {
+      "name": "Cross",
+      "regex": "cross"
+    },
+    {
+      "name": "Curve",
+      "regex": "curve"
+    },
+    {
+      "name": "Missino",
+      "regex": "mission"
+    },
+    {
+      "name": "Quad",
+      "regex": "quad"
+    },
+    {
+      "name": "Traction",
+      "regex": "traction"
+    },
+    {
+      "name": "Ultimate",
+      "regex": "ultimate"
+    }
+  ]
+}
