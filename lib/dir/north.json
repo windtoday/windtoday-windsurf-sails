@@ -1,64 +1,95 @@
 {
   "brand": {
     "name": "North",
-    "regex": "north|nsails"
+    "regex": [
+      "north",
+      "nsails"
+    ]
   },
   "models": [
     {
       "name": "Curve",
-      "regex": "curve"
+      "regex": [
+        "curve"
+      ]
     },
     {
       "name": "Daytona",
-      "regex": "daytona"
+      "regex": [
+        "daytona"
+      ]
     },
     {
       "name": "Duke",
-      "regex": "duke"
+      "regex": [
+        "duke"
+      ]
     },
     {
       "name": "EType",
-      "regex": "e.?type"
+      "regex": [
+        "e.?type"
+      ]
     },
     {
       "name": "Hero",
-      "regex": "hero"
+      "regex": [
+        "hero"
+      ]
     },
     {
       "name": "Ice",
-      "regex": "ice"
+      "regex": [
+        "ice"
+      ]
     },
     {
       "name": "Idol",
-      "regex": "idol"
+      "regex": [
+        "idol"
+      ]
     },
     {
       "name": "Natural",
-      "regex": "natural"
+      "regex": [
+        "natural"
+      ]
     },
     {
       "name": "Ram",
-      "regex": "ram"
+      "regex": [
+        "ram"
+      ]
     },
     {
       "name": "SType",
-      "regex": "s.?type"
+      "regex": [
+        "s.?type"
+      ]
     },
     {
       "name": "Volt",
-      "regex": "volt"
+      "regex": [
+        "volt"
+      ]
     },
     {
       "name": "Voodoo",
-      "regex": "voodoo"
+      "regex": [
+        "voodoo"
+      ]
     },
     {
       "name": "Warp",
-      "regex": "warp"
+      "regex": [
+        "warp"
+      ]
     },
     {
       "name": "XType",
-      "regex": "x.?type"
+      "regex": [
+        "x.?type"
+      ]
     }
   ]
 }

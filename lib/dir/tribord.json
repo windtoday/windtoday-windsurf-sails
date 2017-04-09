@@ -1,7 +1,9 @@
 {
   "brand": {
     "name": "Tribord",
-    "regex": "tribord"
+    "regex": [
+      "tribord"
+    ]
   },
   "models": []
 }

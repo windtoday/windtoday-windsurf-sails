@@ -1,40 +1,58 @@
 {
   "brand": {
     "name": "Aerotech",
-    "regex": "aerotech"
+    "regex": [
+      "aerotech"
+    ]
   },
   "models": [
     {
       "name": "Action",
-      "regex": "action"
+      "regex": [
+        "action"
+      ]
     },
     {
       "name": "Air X",
-      "regex": "air"
+      "regex": [
+        "air"
+      ]
     },
     {
       "name": "Charge",
-      "regex": "charge"
+      "regex": [
+        "charge"
+      ]
     },
     {
       "name": "Dagger",
-      "regex": "dagger"
+      "regex": [
+        "dagger"
+      ]
     },
     {
       "name": "Freespeed",
-      "regex": "freespeed"
+      "regex": [
+        "freespeed"
+      ]
     },
     {
       "name": "Phantom",
-      "regex": "phantom"
+      "regex": [
+        "phantom"
+      ]
     },
     {
       "name": "Rapidfire",
-      "regex": "rapidfire"
+      "regex": [
+        "rapidfire"
+      ]
     },
     {
       "name": "Vice",
-      "regex": "vice"
+      "regex": [
+        "vice"
+      ]
     }
   ]
 }

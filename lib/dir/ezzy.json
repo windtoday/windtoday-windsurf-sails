@@ -1,44 +1,64 @@
 {
   "brand": {
     "name": "Ezzy",
-    "regex": "ezzy"
+    "regex": [
+      "ezzy"
+    ]
   },
   "models": [
     {
       "name": "Cheetah",
-      "regex": "cheetah"
+      "regex": [
+        "cheetah"
+      ]
     },
     {
       "name": "Elite",
-      "regex": "elite"
+      "regex": [
+        "elite"
+      ]
     },
     {
       "name": "Infinity",
-      "regex": "infinity"
+      "regex": [
+        "infinity"
+      ]
     },
     {
       "name": "Legacy",
-      "regex": "legacy"
+      "regex": [
+        "legacy"
+      ]
     },
     {
       "name": "Lion",
-      "regex": "lion"
+      "regex": [
+        "lion"
+      ]
     },
     {
       "name": "Panther",
-      "regex": "panther"
+      "regex": [
+        "panther"
+      ]
     },
     {
       "name": "Taka",
-      "regex": "taka"
+      "regex": [
+        "taka"
+      ]
     },
     {
       "name": "Tiger",
-      "regex": "tiger"
+      "regex": [
+        "tiger"
+      ]
     },
     {
       "name": "Zephyr",
-      "regex": "zephyr"
+      "regex": [
+        "zephyr"
+      ]
     }
   ]
 }

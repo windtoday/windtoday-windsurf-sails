@@ -1,32 +1,46 @@
 {
   "brand": {
     "name": "Vandal",
-    "regex": "vandal"
+    "regex": [
+      "vandal"
+    ]
   },
   "models": [
     {
       "name": "Addict",
-      "regex": "addict"
+      "regex": [
+        "addict"
+      ]
     },
     {
       "name": "Enemy",
-      "regex": "enemy"
+      "regex": [
+        "enemy"
+      ]
     },
     {
       "name": "Mission",
-      "regex": "mission"
+      "regex": [
+        "mission"
+      ]
     },
     {
       "name": "Riot",
-      "regex": "riot"
+      "regex": [
+        "riot"
+      ]
     },
     {
       "name": "Stitch",
-      "regex": "stitch"
+      "regex": [
+        "stitch"
+      ]
     },
     {
       "name": "Venture",
-      "regex": "venture"
+      "regex": [
+        "venture"
+      ]
     }
   ]
 }

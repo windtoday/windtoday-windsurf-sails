@@ -1,7 +1,9 @@
 {
   "brand": {
     "name": "Kawaii",
-    "regex": "kawaii"
+    "regex": [
+      "kawaii"
+    ]
   },
   "models": []
 }

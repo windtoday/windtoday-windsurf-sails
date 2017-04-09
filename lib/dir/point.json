@@ -1,40 +1,58 @@
 {
   "brand": {
     "name": "Point-7",
-    "regex": "point.?7"
+    "regex": [
+      "point.?7"
+    ]
   },
   "models": [
     {
       "name": "AC-F",
-      "regex": "ac.?f"
+      "regex": [
+        "ac.?f"
+      ]
     },
     {
       "name": "AC-K",
-      "regex": "ac.?k"
+      "regex": [
+        "ac.?k"
+      ]
     },
     {
       "name": "AC-ONE",
-      "regex": "ac.?(?:1|one)"
+      "regex": [
+        "ac.?(?:1|one)"
+      ]
     },
     {
       "name": "AC-X",
-      "regex": "ac.?x"
+      "regex": [
+        "ac.?x"
+      ]
     },
     {
       "name": "Salt",
-      "regex": "salt"
+      "regex": [
+        "salt"
+      ]
     },
     {
       "name": "Slash",
-      "regex": "slash"
+      "regex": [
+        "slash"
+      ]
     },
     {
       "name": "Spy",
-      "regex": "spy"
+      "regex": [
+        "spy"
+      ]
     },
     {
       "name": "Swag",
-      "regex": "swag"
+      "regex": [
+        "swag"
+      ]
     }
   ]
 }

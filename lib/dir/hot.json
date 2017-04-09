@@ -1,44 +1,64 @@
 {
   "brand": {
     "name": "Hot Maui",
-    "regex": "hot"
+    "regex": [
+      "hot"
+    ]
   },
   "models": [
     {
       "name": "Firelight",
-      "regex": "fire.?light"
+      "regex": [
+        "fire.?light"
+      ]
     },
     {
       "name": "Freestyle",
-      "regex": "freestyle"
+      "regex": [
+        "freestyle"
+      ]
     },
     {
       "name": "GPS",
-      "regex": "gps"
+      "regex": [
+        "gps"
+      ]
     },
     {
       "name": "GPX",
-      "regex": "gpx"
+      "regex": [
+        "gpx"
+      ]
     },
     {
       "name": "KS3",
-      "regex": "ks3"
+      "regex": [
+        "ks3"
+      ]
     },
     {
       "name": "Micro",
-      "regex": "micro"
+      "regex": [
+        "micro"
+      ]
     },
     {
       "name": "Qu4d",
-      "regex": "qu[a4]d"
+      "regex": [
+        "qu[a4]d"
+      ]
     },
     {
       "name": "Smack",
-      "regex": "smack"
+      "regex": [
+        "smack"
+      ]
     },
     {
       "name": "Superfreak",
-      "regex": "superfreak"
+      "regex": [
+        "superfreak"
+      ]
     }
   ]
 }

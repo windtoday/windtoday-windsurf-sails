@@ -1,64 +1,96 @@
 {
   "brand": {
     "name": "Gaastra",
-    "regex": "ga |gaastra|ga[ -]sails"
+    "regex": [
+      "ga ",
+      "gaastra",
+      "ga[ -]sails"
+    ]
   },
   "models": [
     {
       "name": "Cosmic",
-      "regex": "cosmic"
+      "regex": [
+        "cosmic"
+      ]
     },
     {
       "name": "Cross",
-      "regex": "cross"
+      "regex": [
+        "cross"
+      ]
     },
     {
       "name": "Flow",
-      "regex": "flow"
+      "regex": [
+        "flow"
+      ]
     },
     {
       "name": "Hybrid",
-      "regex": "hybrid"
+      "regex": [
+        "hybrid"
+      ]
     },
     {
       "name": "IQ",
-      "regex": "iq"
+      "regex": [
+        "iq"
+      ]
     },
     {
       "name": "MX4",
-      "regex": "mx4"
+      "regex": [
+        "mx4"
+      ]
     },
     {
       "name": "Manic",
-      "regex": "manic"
+      "regex": [
+        "manic"
+      ]
     },
     {
       "name": "Matrix",
-      "regex": "matrix"
+      "regex": [
+        "matrix"
+      ]
     },
     {
       "name": "Phantom",
-      "regex": "phantom"
+      "regex": [
+        "phantom"
+      ]
     },
     {
       "name": "Pilot",
-      "regex": "pilot"
+      "regex": [
+        "pilot"
+      ]
     },
     {
       "name": "Poison",
-      "regex": "poison"
+      "regex": [
+        "poison"
+      ]
     },
     {
       "name": "Pure",
-      "regex": "pure"
+      "regex": [
+        "pure"
+      ]
     },
     {
       "name": "Savage",
-      "regex": "savage"
+      "regex": [
+        "savage"
+      ]
     },
     {
       "name": "Vapor",
-      "regex": "vapor"
+      "regex": [
+        "vapor"
+      ]
     }
   ]
 }

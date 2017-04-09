@@ -1,56 +1,83 @@
 {
   "brand": {
     "name": "Loft",
-    "regex": "loft"
+    "regex": [
+      "loft"
+    ]
   },
   "models": [
     {
       "name": "Airscape",
-      "regex": "air.?scape"
+      "regex": [
+        "air.?scape"
+      ]
     },
     {
       "name": "Blade FR",
-      "regex": "blade.?fr"
+      "regex": [
+        "blade.?fr"
+      ]
     },
     {
       "name": "Lip Wave",
-      "regex": "lip.?wave"
+      "regex": [
+        "lip.?wave"
+      ]
     },
     {
       "name": "Oxygen",
-      "regex": "oxygen|o2"
+      "regex": [
+        "oxygen",
+        "o2"
+      ]
     },
     {
       "name": "Purelip",
-      "regex": "pure.?lip"
+      "regex": [
+        "pure.?lip"
+      ]
     },
     {
       "name": "Quad",
-      "regex": "quad"
+      "regex": [
+        "quad"
+      ]
     },
     {
       "name": "Raceboard Blade",
-      "regex": "race"
+      "regex": [
+        "race"
+      ]
     },
     {
       "name": "Racing Blade",
-      "regex": "racing"
+      "regex": [
+        "racing"
+      ]
     },
     {
       "name": "Speed Blade",
-      "regex": "speed"
+      "regex": [
+        "speed"
+      ]
     },
     {
       "name": "Switch Blade",
-      "regex": "switch"
+      "regex": [
+        "switch"
+      ]
     },
     {
       "name": "Wavescape",
-      "regex": "wave.?scape"
+      "regex": [
+        "wave.?scape"
+      ]
     },
     {
       "name": "Windscape",
-      "regex": "wind.?scape"
+      "regex": [
+        "wind.?scape"
+      ]
     }
   ]
 }

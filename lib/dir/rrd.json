@@ -1,44 +1,64 @@
 {
   "brand": {
     "name": "RRD",
-    "regex": "rrd"
+    "regex": [
+      "rrd"
+    ]
   },
   "models": [
     {
       "name": "Evolution",
-      "regex": "evolution"
+      "regex": [
+        "evolution"
+      ]
     },
     {
       "name": "Fire",
-      "regex": "fire"
+      "regex": [
+        "fire"
+      ]
     },
     {
       "name": "Firewing",
-      "regex": "firewing"
+      "regex": [
+        "firewing"
+      ]
     },
     {
       "name": "Four",
-      "regex": "four"
+      "regex": [
+        "four"
+      ]
     },
     {
       "name": "Gamma",
-      "regex": "gamma"
+      "regex": [
+        "gamma"
+      ]
     },
     {
       "name": "Move",
-      "regex": "move"
+      "regex": [
+        "move"
+      ]
     },
     {
       "name": "Style",
-      "regex": "style"
+      "regex": [
+        "style"
+      ]
     },
     {
       "name": "Vogue",
-      "regex": "vogue"
+      "regex": [
+        "vogue"
+      ]
     },
     {
       "name": "X-Tra",
-      "regex": "tra"
+      "regex": [
+        "tra"
+      ]
     }
   ]
 }

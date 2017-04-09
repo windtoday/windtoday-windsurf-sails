@@ -1,56 +1,82 @@
 {
   "brand": {
     "name": "Gun",
-    "regex": "gun"
+    "regex": [
+      "gun"
+    ]
   },
   "models": [
     {
       "name": "Aqua",
-      "regex": "aqua"
+      "regex": [
+        "aqua"
+      ]
     },
     {
       "name": "Beat",
-      "regex": "beat"
+      "regex": [
+        "beat"
+      ]
     },
     {
       "name": "Blow",
-      "regex": "blow"
+      "regex": [
+        "blow"
+      ]
     },
     {
       "name": "Dragon Sail",
-      "regex": "dragon"
+      "regex": [
+        "dragon"
+      ]
     },
     {
       "name": "GS-R",
-      "regex": "gs[ -]?r"
+      "regex": [
+        "gs[ -]?r"
+      ]
     },
     {
       "name": "Peak",
-      "regex": "peak"
+      "regex": [
+        "peak"
+      ]
     },
     {
       "name": "Rapid",
-      "regex": "rapid"
+      "regex": [
+        "rapid"
+      ]
     },
     {
       "name": "Stream",
-      "regex": "stream"
+      "regex": [
+        "stream"
+      ]
     },
     {
       "name": "Sunray",
-      "regex": "sunray"
+      "regex": [
+        "sunray"
+      ]
     },
     {
       "name": "Torro",
-      "regex": "torro"
+      "regex": [
+        "torro"
+      ]
     },
     {
       "name": "Transwave",
-      "regex": "transwave"
+      "regex": [
+        "transwave"
+      ]
     },
     {
       "name": "Vector",
-      "regex": "vector"
+      "regex": [
+        "vector"
+      ]
     }
   ]
 }

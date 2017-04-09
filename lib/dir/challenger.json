@@ -1,36 +1,52 @@
 {
   "brand": {
     "name": "Challenger",
-    "regex": "challenger"
+    "regex": [
+      "challenger"
+    ]
   },
   "models": [
     {
       "name": "4Pro",
-      "regex": "4pro"
+      "regex": [
+        "4pro"
+      ]
     },
     {
       "name": "Aero+",
-      "regex": "aero"
+      "regex": [
+        "aero"
+      ]
     },
     {
       "name": "FluidoT3",
-      "regex": "fluido"
+      "regex": [
+        "fluido"
+      ]
     },
     {
       "name": "GT2Wing",
-      "regex": "gt2"
+      "regex": [
+        "gt2"
+      ]
     },
     {
       "name": "Konda",
-      "regex": "k.?onda"
+      "regex": [
+        "k.?onda"
+      ]
     },
     {
       "name": "Liquido",
-      "regex": "liquido"
+      "regex": [
+        "liquido"
+      ]
     },
     {
       "name": "Three-G",
-      "regex": "three"
+      "regex": [
+        "three"
+      ]
     }
   ]
 }

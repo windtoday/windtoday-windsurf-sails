@@ -1,36 +1,52 @@
 {
   "brand": {
     "name": "Goya",
-    "regex": "goya"
+    "regex": [
+      "goya"
+    ]
   },
   "models": [
     {
       "name": "Banzai",
-      "regex": "banzai"
+      "regex": [
+        "banzai"
+      ]
     },
     {
       "name": "Bounce",
-      "regex": "bounce"
+      "regex": [
+        "bounce"
+      ]
     },
     {
       "name": "Eclipse",
-      "regex": "eclipse"
+      "regex": [
+        "eclipse"
+      ]
     },
     {
       "name": "Fringe",
-      "regex": "fringe"
+      "regex": [
+        "fringe"
+      ]
     },
     {
       "name": "Guru",
-      "regex": "gur[uú]"
+      "regex": [
+        "gur[uú]"
+      ]
     },
     {
       "name": "Mark",
-      "regex": "mark"
+      "regex": [
+        "mark"
+      ]
     },
     {
       "name": "Nexus",
-      "regex": "nexus"
+      "regex": [
+        "nexus"
+      ]
     }
   ]
 }

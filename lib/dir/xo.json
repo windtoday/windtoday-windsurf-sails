@@ -1,32 +1,47 @@
 {
   "brand": {
     "name": "XO",
-    "regex": "x\\.?o|exocet"
+    "regex": [
+      "x\\.?o",
+      "exocet"
+    ]
   },
   "models": [
     {
       "name": "EOL",
-      "regex": "eol"
+      "regex": [
+        "eol"
+      ]
     },
     {
       "name": "Gold",
-      "regex": "gold"
+      "regex": [
+        "gold"
+      ]
     },
     {
       "name": "Quad",
-      "regex": "quad"
+      "regex": [
+        "quad"
+      ]
     },
     {
       "name": "Shark",
-      "regex": "shark"
+      "regex": [
+        "shark"
+      ]
     },
     {
       "name": "Silver",
-      "regex": "silver"
+      "regex": [
+        "silver"
+      ]
     },
     {
       "name": "Skull",
-      "regex": "skull"
+      "regex": [
+        "skull"
+      ]
     }
   ]
 }

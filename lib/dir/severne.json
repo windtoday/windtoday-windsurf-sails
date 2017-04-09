@@ -1,56 +1,82 @@
 {
   "brand": {
     "name": "Severne",
-    "regex": "severne"
+    "regex": [
+      "severne"
+    ]
   },
   "models": [
     {
       "name": "Blade",
-      "regex": "blade"
+      "regex": [
+        "blade"
+      ]
     },
     {
       "name": "Convert",
-      "regex": "convert"
+      "regex": [
+        "convert"
+      ]
     },
     {
       "name": "Freek",
-      "regex": "freek"
+      "regex": [
+        "freek"
+      ]
     },
     {
       "name": "Gator",
-      "regex": "gator"
+      "regex": [
+        "gator"
+      ]
     },
     {
       "name": "NCX",
-      "regex": "ncx"
+      "regex": [
+        "ncx"
+      ]
     },
     {
       "name": "Overdrive",
-      "regex": "overdrive"
+      "regex": [
+        "overdrive"
+      ]
     },
     {
       "name": "Reflex",
-      "regex": "reflex"
+      "regex": [
+        "reflex"
+      ]
     },
     {
       "name": "S1",
-      "regex": "s.?1"
+      "regex": [
+        "s.?1"
+      ]
     },
     {
       "name": "S3",
-      "regex": "s.?3"
+      "regex": [
+        "s.?3"
+      ]
     },
     {
       "name": "Swat",
-      "regex": "swat"
+      "regex": [
+        "swat"
+      ]
     },
     {
       "name": "Turbo",
-      "regex": "turbo"
+      "regex": [
+        "turbo"
+      ]
     },
     {
       "name": "Unit",
-      "regex": "unit"
+      "regex": [
+        "unit"
+      ]
     }
   ]
 }

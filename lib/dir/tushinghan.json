@@ -1,7 +1,9 @@
 {
   "brand": {
     "name": "Tushingham",
-    "regex": "tushingham"
+    "regex": [
+      "tushingham"
+    ]
   },
   "models": []
 }

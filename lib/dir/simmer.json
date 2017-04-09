@@ -1,56 +1,82 @@
 {
   "brand": {
     "name": "Simmer",
-    "regex": "simmer"
+    "regex": [
+      "simmer"
+    ]
   },
   "models": [
     {
       "name": "2xc",
-      "regex": "2xc"
+      "regex": [
+        "2xc"
+      ]
     },
     {
       "name": "Ace",
-      "regex": "ace"
+      "regex": [
+        "ace"
+      ]
     },
     {
       "name": "Apex",
-      "regex": "apex"
+      "regex": [
+        "apex"
+      ]
     },
     {
       "name": "Blacktip",
-      "regex": "black.?tip"
+      "regex": [
+        "black.?tip"
+      ]
     },
     {
       "name": "Enduro",
-      "regex": "enduro"
+      "regex": [
+        "enduro"
+      ]
     },
     {
       "name": "Icon",
-      "regex": "icon"
+      "regex": [
+        "icon"
+      ]
     },
     {
       "name": "Mission",
-      "regex": "mission"
+      "regex": [
+        "mission"
+      ]
     },
     {
       "name": "Novex",
-      "regex": "novex"
+      "regex": [
+        "novex"
+      ]
     },
     {
       "name": "SCR",
-      "regex": "scr"
+      "regex": [
+        "scr"
+      ]
     },
     {
       "name": "SCS",
-      "regex": "scs"
+      "regex": [
+        "scs"
+      ]
     },
     {
       "name": "Tricera",
-      "regex": "tricera"
+      "regex": [
+        "tricera"
+      ]
     },
     {
       "name": "Vmax",
-      "regex": "v[ -]?max"
+      "regex": [
+        "v[ -]?max"
+      ]
     }
   ]
 }

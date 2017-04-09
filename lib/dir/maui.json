@@ -1,44 +1,64 @@
 {
   "brand": {
     "name": "Maui",
-    "regex": "maui"
+    "regex": [
+      "maui"
+    ]
   },
   "models": [
     {
       "name": "Epic",
-      "regex": "epic"
+      "regex": [
+        "epic"
+      ]
     },
     {
       "name": "Ghost",
-      "regex": "ghost"
+      "regex": [
+        "ghost"
+      ]
     },
     {
       "name": "Global",
-      "regex": "global"
+      "regex": [
+        "global"
+      ]
     },
     {
       "name": "Legend",
-      "regex": "legend"
+      "regex": [
+        "legend"
+      ]
     },
     {
       "name": "Loco",
-      "regex": "loco"
+      "regex": [
+        "loco"
+      ]
     },
     {
       "name": "Mutant",
-      "regex": "mutant"
+      "regex": [
+        "mutant"
+      ]
     },
     {
       "name": "Scream",
-      "regex": "scream"
+      "regex": [
+        "scream"
+      ]
     },
     {
       "name": "Switch",
-      "regex": "switch"
+      "regex": [
+        "switch"
+      ]
     },
     {
       "name": "Titan",
-      "regex": "titan"
+      "regex": [
+        "titan"
+      ]
     }
   ]
 }

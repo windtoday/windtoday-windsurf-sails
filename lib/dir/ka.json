@@ -1,44 +1,64 @@
 {
   "brand": {
     "name": "Ka",
-    "regex": "ka"
+    "regex": [
+      "ka"
+    ]
   },
   "models": [
     {
       "name": "Kamikaze",
-      "regex": "kamikaze"
+      "regex": [
+        "kamikaze"
+      ]
     },
     {
       "name": "Kaos",
-      "regex": "kaos"
+      "regex": [
+        "kaos"
+      ]
     },
     {
       "name": "Killer",
-      "regex": "killer"
+      "regex": [
+        "killer"
+      ]
     },
     {
       "name": "Koncept",
-      "regex": "koncept"
+      "regex": [
+        "koncept"
+      ]
     },
     {
       "name": "Koyote",
-      "regex": "koyote"
+      "regex": [
+        "koyote"
+      ]
     },
     {
       "name": "Kruze",
-      "regex": "kruze"
+      "regex": [
+        "kruze"
+      ]
     },
     {
       "name": "Kryptonite",
-      "regex": "kryptonite"
+      "regex": [
+        "kryptonite"
+      ]
     },
     {
       "name": "Kult",
-      "regex": "kult"
+      "regex": [
+        "kult"
+      ]
     },
     {
       "name": "Race",
-      "regex": "race"
+      "regex": [
+        "race"
+      ]
     }
   ]
 }

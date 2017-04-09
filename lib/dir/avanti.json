@@ -1,36 +1,52 @@
 {
   "brand": {
     "name": "Avanti",
-    "regex": "avanti"
+    "regex": [
+      "avanti"
+    ]
   },
   "models": [
     {
       "name": "Condor",
-      "regex": "condor"
+      "regex": [
+        "condor"
+      ]
     },
     {
       "name": "Echo ME",
-      "regex": "echo"
+      "regex": [
+        "echo"
+      ]
     },
     {
       "name": "Fenix",
-      "regex": "fenix"
+      "regex": [
+        "fenix"
+      ]
     },
     {
       "name": "M2",
-      "regex": "m2"
+      "regex": [
+        "m2"
+      ]
     },
     {
       "name": "Machine M-4",
-      "regex": "machine"
+      "regex": [
+        "machine"
+      ]
     },
     {
       "name": "Poweride ME",
-      "regex": "poweride"
+      "regex": [
+        "poweride"
+      ]
     },
     {
       "name": "Viper",
-      "regex": "viper"
+      "regex": [
+        "viper"
+      ]
     }
   ]
 }

@@ -1,92 +1,137 @@
 {
   "brand": {
     "name": "Neilpryde",
-    "regex": "neil.?pryde|np"
+    "regex": [
+      "neil.?pryde",
+      "np"
+    ]
   },
   "models": [
     {
       "name": "Alpha",
-      "regex": "alpha"
+      "regex": [
+        "alpha"
+      ]
     },
     {
       "name": "Atlas",
-      "regex": "atlas"
+      "regex": [
+        "atlas"
+      ]
     },
     {
       "name": "Combat",
-      "regex": "combat"
+      "regex": [
+        "combat"
+      ]
     },
     {
       "name": "Core",
-      "regex": "core"
+      "regex": [
+        "core"
+      ]
     },
     {
       "name": "Evo",
-      "regex": "evo"
+      "regex": [
+        "evo"
+      ]
     },
     {
       "name": "FireFly",
-      "regex": "firefly"
+      "regex": [
+        "firefly"
+      ]
     },
     {
       "name": "Fusion",
-      "regex": "fusion"
+      "regex": [
+        "fusion"
+      ]
     },
     {
       "name": "H2",
-      "regex": "h2"
+      "regex": [
+        "h2"
+      ]
     },
     {
       "name": "Hellcat",
-      "regex": "hellcat"
+      "regex": [
+        "hellcat"
+      ]
     },
     {
       "name": "Hornet",
-      "regex": "hornet"
+      "regex": [
+        "hornet"
+      ]
     },
     {
       "name": "LT",
-      "regex": "lt"
+      "regex": [
+        "lt"
+      ]
     },
     {
       "name": "RS",
-      "regex": "rs"
+      "regex": [
+        "rs"
+      ]
     },
     {
       "name": "Ryde",
-      "regex": "ryde"
+      "regex": [
+        "ryde"
+      ]
     },
     {
       "name": "Saber",
-      "regex": "saber"
+      "regex": [
+        "saber"
+      ]
     },
     {
       "name": "Search",
-      "regex": "search"
+      "regex": [
+        "search"
+      ]
     },
     {
       "name": "Solo",
-      "regex": "solo"
+      "regex": [
+        "solo"
+      ]
     },
     {
       "name": "Tempo",
-      "regex": "tempo"
+      "regex": [
+        "tempo"
+      ]
     },
     {
       "name": "The Fly",
-      "regex": "fly"
+      "regex": [
+        "fly"
+      ]
     },
     {
       "name": "V8",
-      "regex": "v8"
+      "regex": [
+        "v8"
+      ]
     },
     {
       "name": "Wizard",
-      "regex": "wizard"
+      "regex": [
+        "wizard"
+      ]
     },
     {
       "name": "Zone",
-      "regex": "zone"
+      "regex": [
+        "zone"
+      ]
     }
   ]
 }

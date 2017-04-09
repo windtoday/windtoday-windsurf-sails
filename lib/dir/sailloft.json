@@ -1,36 +1,52 @@
 {
   "brand": {
     "name": "Sailloft",
-    "regex": "sail.?loft"
+    "regex": [
+      "sail.?loft"
+    ]
   },
   "models": [
     {
       "name": "Bionic",
-      "regex": "bionic"
+      "regex": [
+        "bionic"
+      ]
     },
     {
       "name": "Cross",
-      "regex": "cross"
+      "regex": [
+        "cross"
+      ]
     },
     {
       "name": "Curve",
-      "regex": "curve"
+      "regex": [
+        "curve"
+      ]
     },
     {
       "name": "Missino",
-      "regex": "mission"
+      "regex": [
+        "mission"
+      ]
     },
     {
       "name": "Quad",
-      "regex": "quad"
+      "regex": [
+        "quad"
+      ]
     },
     {
       "name": "Traction",
-      "regex": "traction"
+      "regex": [
+        "traction"
+      ]
     },
     {
       "name": "Ultimate",
-      "regex": "ultimate"
+      "regex": [
+        "ultimate"
+      ]
     }
   ]
 }

@@ -1,72 +1,106 @@
 {
   "brand": {
     "name": "Naish",
-    "regex": "naish"
+    "regex": [
+      "naish"
+    ]
   },
   "models": [
     {
       "name": "Boxer",
-      "regex": "boxer"
+      "regex": [
+        "boxer"
+      ]
     },
     {
       "name": "Bullet",
-      "regex": "bullet"
+      "regex": [
+        "bullet"
+      ]
     },
     {
       "name": "Chopper",
-      "regex": "chopper"
+      "regex": [
+        "chopper"
+      ]
     },
     {
       "name": "Cruz",
-      "regex": "cruz"
+      "regex": [
+        "cruz"
+      ]
     },
     {
       "name": "Force",
-      "regex": "force"
+      "regex": [
+        "force"
+      ]
     },
     {
       "name": "Gran Prix",
-      "regex": "grand.?prix"
+      "regex": [
+        "grand.?prix"
+      ]
     },
     {
       "name": "Indy",
-      "regex": "indy"
+      "regex": [
+        "indy"
+      ]
     },
     {
       "name": "Noa",
-      "regex": "noa"
+      "regex": [
+        "noa"
+      ]
     },
     {
       "name": "Rally",
-      "regex": "rally"
+      "regex": [
+        "rally"
+      ]
     },
     {
       "name": "SL",
-      "regex": "sl"
+      "regex": [
+        "sl"
+      ]
     },
     {
       "name": "Scout",
-      "regex": "scout"
+      "regex": [
+        "scout"
+      ]
     },
     {
       "name": "Session",
-      "regex": "session"
+      "regex": [
+        "session"
+      ]
     },
     {
       "name": "Sprint",
-      "regex": "sprint"
+      "regex": [
+        "sprint"
+      ]
     },
     {
       "name": "Stealth",
-      "regex": "stealth"
+      "regex": [
+        "stealth"
+      ]
     },
     {
       "name": "Supermoto",
-      "regex": "super.?moto"
+      "regex": [
+        "super.?moto"
+      ]
     },
     {
       "name": "X2",
-      "regex": "x2"
+      "regex": [
+        "x2"
+      ]
     }
   ]
 }
