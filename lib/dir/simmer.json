@@ -75,7 +75,7 @@
     {
       "name": "Vmax",
       "regex": [
-        "v[ -]?max"
+        "v.?max"
       ]
     }
   ]

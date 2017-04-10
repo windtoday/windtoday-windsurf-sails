@@ -15,7 +15,7 @@
     {
       "name": "Echo ME",
       "regex": [
-        "echo"
+        "echo(?:.me)?"
       ]
     },
     {
@@ -33,7 +33,7 @@
     {
       "name": "Machine M-4",
       "regex": [
-        "machine"
+        "machine(?: m.?4)?"
       ]
     },
     {

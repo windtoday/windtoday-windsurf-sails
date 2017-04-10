@@ -15,7 +15,7 @@
     {
       "name": "Air X",
       "regex": [
-        "air"
+        "air(?:.x)?"
       ]
     },
     {

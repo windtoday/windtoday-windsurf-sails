@@ -112,7 +112,7 @@
     {
       "name": "The Fly",
       "regex": [
-        "fly"
+        "(?:the.?)?fly"
       ]
     },
     {

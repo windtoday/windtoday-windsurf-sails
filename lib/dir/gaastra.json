@@ -2,9 +2,8 @@
   "brand": {
     "name": "Gaastra",
     "regex": [
-      "ga ",
       "gaastra",
-      "ga[ -]sails"
+      "ga(?:.?sails)?"
     ]
   },
   "models": [

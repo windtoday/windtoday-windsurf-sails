@@ -57,7 +57,7 @@
     {
       "name": "X-Tra",
       "regex": [
-        "tra"
+        "x.?tra"
       ]
     }
   ]

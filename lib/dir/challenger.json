@@ -15,19 +15,19 @@
     {
       "name": "Aero+",
       "regex": [
-        "aero"
+        "aero\\+?"
       ]
     },
     {
       "name": "FluidoT3",
       "regex": [
-        "fluido"
+        "fluido(?:.?T3)?"
       ]
     },
     {
       "name": "GT2Wing",
       "regex": [
-        "gt2"
+        "gt2(?:.?wing)?"
       ]
     },
     {
@@ -45,7 +45,7 @@
     {
       "name": "Three-G",
       "regex": [
-        "three"
+        "three(?:.g)?"
       ]
     }
   ]

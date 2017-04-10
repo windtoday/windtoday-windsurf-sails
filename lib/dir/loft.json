@@ -2,7 +2,7 @@
   "brand": {
     "name": "Loft",
     "regex": [
-      "loft"
+      "loft(?:.?sails)?"
     ]
   },
   "models": [
@@ -46,25 +46,25 @@
     {
       "name": "Raceboard Blade",
       "regex": [
-        "race"
+        "race(?:board(?:.?blade)?)?"
       ]
     },
     {
       "name": "Racing Blade",
       "regex": [
-        "racing"
+        "racing(?:.?blade)?"
       ]
     },
     {
       "name": "Speed Blade",
       "regex": [
-        "speed"
+        "speed(?:.?blade)??"
       ]
     },
     {
       "name": "Switch Blade",
       "regex": [
-        "switch"
+        "switch(?:.?blade)?"
       ]
     },
     {

@@ -2,7 +2,7 @@
   "brand": {
     "name": "North",
     "regex": [
-      "north",
+      "north(?:.?sails)?",
       "nsails"
     ]
   },
