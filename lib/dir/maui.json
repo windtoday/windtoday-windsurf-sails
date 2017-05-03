@@ -2,7 +2,7 @@
   "brand": {
     "name": "Maui",
     "regex": [
-      "maui"
+      "maui(?:.?sails)?"
     ]
   },
   "models": [
