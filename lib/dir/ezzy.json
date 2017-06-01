@@ -59,6 +59,12 @@
       "regex": [
         "zephyr"
       ]
+    },
+    {
+      "name": "Zeta",
+      "regex": [
+        "zeta"
+      ]
     }
   ]
 }
