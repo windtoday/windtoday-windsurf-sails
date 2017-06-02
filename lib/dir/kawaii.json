@@ -2,7 +2,7 @@
   "brand": {
     "name": "Kawaii",
     "regex": [
-      "kawaii"
+      "kawaii(?:.?sails)?"
     ]
   },
   "models": []

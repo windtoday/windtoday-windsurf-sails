@@ -2,7 +2,7 @@
   "brand": {
     "name": "Ka",
     "regex": [
-      "ka"
+      "ka(?:.?sails)?"
     ]
   },
   "models": [

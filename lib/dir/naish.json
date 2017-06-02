@@ -2,7 +2,7 @@
   "brand": {
     "name": "Naish",
     "regex": [
-      "naish"
+      "naish(?:.?sails)?"
     ]
   },
   "models": [

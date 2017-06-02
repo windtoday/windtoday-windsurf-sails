@@ -2,7 +2,7 @@
   "brand": {
     "name": "Point-7",
     "regex": [
-      "point.?7"
+      "point.?7(?:.?sails)?"
     ]
   },
   "models": [

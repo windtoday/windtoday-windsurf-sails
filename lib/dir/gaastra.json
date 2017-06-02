@@ -2,7 +2,7 @@
   "brand": {
     "name": "Gaastra",
     "regex": [
-      "gaastra",
+      "gaastra(?:.?sails)?",
       "ga(?:.?sails)?"
     ]
   },

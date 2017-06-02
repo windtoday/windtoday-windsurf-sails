@@ -2,7 +2,7 @@
   "brand": {
     "name": "Tribord",
     "regex": [
-      "tribord"
+      "tribord(?:.?sails)?"
     ]
   },
   "models": []

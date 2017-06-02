@@ -2,8 +2,8 @@
   "brand": {
     "name": "XO",
     "regex": [
-      "x\\.?o",
-      "exocet"
+      "x\\.?o(?:.?sails)?",
+      "exocet(?:.?sails)?"
     ]
   },
   "models": [

@@ -2,7 +2,7 @@
   "brand": {
     "name": "Goya",
     "regex": [
-      "goya"
+      "goya(?:.?sails)?"
     ]
   },
   "models": [

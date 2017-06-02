@@ -2,7 +2,7 @@
   "brand": {
     "name": "Hot Maui",
     "regex": [
-      "hot"
+      "hot(?:.?sails)?"
     ]
   },
   "models": [

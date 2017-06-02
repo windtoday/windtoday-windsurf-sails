@@ -2,7 +2,7 @@
   "brand": {
     "name": "Sailloft",
     "regex": [
-      "sail.?loft"
+      "sail.?loft(?:.?sails)?"
     ]
   },
   "models": [

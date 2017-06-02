@@ -2,7 +2,7 @@
   "brand": {
     "name": "Aerotech",
     "regex": [
-      "aerotech"
+      "aerotech(?:.?sails)?"
     ]
   },
   "models": [

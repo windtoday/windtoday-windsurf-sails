@@ -2,7 +2,7 @@
   "brand": {
     "name": "Attitude",
     "regex": [
-      "attitude"
+      "attitude(?:.?sails)?"
     ]
   },
   "models": [

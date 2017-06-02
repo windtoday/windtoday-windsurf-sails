@@ -2,8 +2,8 @@
   "brand": {
     "name": "Neilpryde",
     "regex": [
-      "neil.?pryde",
-      "np"
+      "neil.?pryde(?:.?sails)?",
+      "np(?:.?sails)?"
     ]
   },
   "models": [

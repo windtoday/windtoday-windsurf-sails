@@ -2,7 +2,7 @@
   "brand": {
     "name": "Simmer",
     "regex": [
-      "simmer"
+      "simmer(?:.?sails)?"
     ]
   },
   "models": [
