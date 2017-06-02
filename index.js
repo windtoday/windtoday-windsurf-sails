@@ -5,7 +5,7 @@ const get = require('lodash.get')
 
 const createFinBrand = require('./lib/find-brand')
 const createFinModel = require('./lib/find-model')
-const directory = require('req-all')('./lib/dir')
+const dir = require('req-all')('./lib/dir')
 
 const DEFAULT_OPTS = {
   findModel: true
@@ -13,7 +13,7 @@ const DEFAULT_OPTS = {
 
 const getOpts = opts => Object.assign({}, DEFAULT_OPTS, opts)
 
-function dir (str, opts) {
+function directory (str, opts) {
   const {findModel: hasFindModel, strmatchOpts} = getOpts(opts)
   const strmatch = createStrmatch(strmatchOpts)
   const findBrand = createFinBrand(strmatch)
@@ -21,7 +21,7 @@ function dir (str, opts) {
 
   const data = {}
 
-  const brand = findBrand(directory, str)
+  const brand = findBrand(dir, str)
   if (!brand.data) return {data, output: str}
 
   data.brand = get(brand.data, 'brand.name')
@@ -41,4 +41,4 @@ function dir (str, opts) {
   return {data, output: model.matcher.output}
 }
 
-module.exports = dir
+module.exports = directory
