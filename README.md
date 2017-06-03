@@ -36,10 +36,6 @@ Default: `true`
 
 Determinate if perform a search on models as well.
 
-Type: `Object`
-
-Collection of String for create the regex.
-
 #### strmatchOpts
 
 Type: `Object`<br>
