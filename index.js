@@ -3,6 +3,7 @@
 const createStrmatch = require('str-match')
 const get = require('lodash.get')
 
+const createFindSimilar = require('./lib/find-similar')
 const createFinBrand = require('./lib/find-brand')
 const createFinModel = require('./lib/find-model')
 const dir = require('req-all')('./lib/dir')
@@ -37,8 +38,11 @@ function directory (str, opts) {
 
   if (!model.data) return {data, output: brand.matcher.output}
   data.model = get(model.data, 'name')
+  data.type = get(model.data, 'type')
 
   return {data, output: model.matcher.output}
 }
+
+directory.findSimilar = createFindSimilar(dir)
 
 module.exports = directory

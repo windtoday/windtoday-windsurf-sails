@@ -57,6 +57,7 @@
     },
     {
       "name": "Hellcat",
+      "type": "Freeride",
       "regex": [
         "hellcat"
       ]
@@ -81,6 +82,7 @@
     },
     {
       "name": "Ryde",
+      "type": "Freestyle",
       "regex": [
         "ryde"
       ]

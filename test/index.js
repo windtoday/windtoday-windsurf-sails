@@ -23,8 +23,18 @@ describe('directory', function () {
   it('detect brand and model', function () {
     const result = directory('vendo vela ezzy panther')
     should(result).be.eql({
-      data: { brand: 'Ezzy', model: 'Panther' },
+      data: { brand: 'Ezzy', model: 'Panther', type: 'Wave' },
       output: 'vendo vela  '
     })
+  })
+
+  it('find similar items', function () {
+    const item = {
+      brand: 'Loft',
+      model: 'Switch Blade'
+    }
+
+    const similarItems = directory.findSimilar(item)
+    should(similarItems.length > 0).be.true()
   })
 })

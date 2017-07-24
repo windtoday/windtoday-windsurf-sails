@@ -8,36 +8,42 @@
   "models": [
     {
       "name": "Blade",
+      "type": "Wave",
       "regex": [
         "blade"
       ]
     },
     {
       "name": "Convert",
+      "type": "Freeride",
       "regex": [
         "convert"
       ]
     },
     {
       "name": "Freek",
+      "type": "Freestyle",
       "regex": [
         "freek"
       ]
     },
     {
       "name": "Gator",
+      "type": "Freeride",
       "regex": [
         "gator"
       ]
     },
     {
       "name": "NCX",
+      "type": "Freeride",
       "regex": [
         "ncx"
       ]
     },
     {
       "name": "Overdrive",
+      "type": "Race",
       "regex": [
         "overdrive"
       ]
@@ -50,6 +56,7 @@
     },
     {
       "name": "S1",
+      "type": "Wave",
       "regex": [
         "s.?1"
       ]

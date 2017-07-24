@@ -27,6 +27,7 @@
     },
     {
       "name": "EType",
+      "type": "Freeride",
       "regex": [
         "e.?type"
       ]
@@ -45,6 +46,7 @@
     },
     {
       "name": "Idol",
+      "type": "Freestyle",
       "regex": [
         "idol"
       ]

@@ -38,6 +38,7 @@
     },
     {
       "name": "Mark",
+      "type": "Freeride",
       "regex": [
         "mark"
       ]

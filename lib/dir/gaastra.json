@@ -9,6 +9,7 @@
   "models": [
     {
       "name": "Cosmic",
+      "type": "Freeride",
       "regex": [
         "cosmic"
       ]
@@ -27,12 +28,14 @@
     },
     {
       "name": "Hybrid",
+      "type": "Freeride",
       "regex": [
         "hybrid"
       ]
     },
     {
       "name": "IQ",
+      "type": "Wave",
       "regex": [
         "iq"
       ]
@@ -45,18 +48,21 @@
     },
     {
       "name": "Manic",
+      "type": "Wave",
       "regex": [
         "manic"
       ]
     },
     {
       "name": "Matrix",
+      "type": "Freeride",
       "regex": [
         "matrix"
       ]
     },
     {
       "name": "Phantom",
+      "type": "Freerace",
       "regex": [
         "phantom"
       ]
@@ -75,6 +81,7 @@
     },
     {
       "name": "Pure",
+      "type": "Wave",
       "regex": [
         "pure"
       ]
@@ -87,6 +94,7 @@
     },
     {
       "name": "Vapor",
+      "type": "Race",
       "regex": [
         "vapor"
       ]

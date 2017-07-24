@@ -8,6 +8,7 @@
   "models": [
     {
       "name": "Aqua",
+      "type": "Wave",
       "regex": [
         "aqua"
       ]
@@ -20,62 +21,79 @@
     },
     {
       "name": "Blow",
+      "type": "Wave",
       "regex": [
         "blow"
       ]
     },
     {
-      "name": "Dragon Sail",
+      "name": "Dragon",
+      "type": "Beginner",
       "regex": [
-        "dragon(?:.?sail)?"
+        "dragon"
       ]
     },
     {
       "name": "GS-R",
+      "type": "Race",
       "regex": [
         "gs(?:.?r)?"
       ]
     },
     {
       "name": "Peak",
+      "type": "Wave",
       "regex": [
         "peak"
       ]
     },
     {
       "name": "Rapid",
+      "type": "Freeride",
       "regex": [
         "rapid"
       ]
     },
     {
       "name": "Stream",
+      "type": "Freeride",
       "regex": [
         "stream"
       ]
     },
     {
       "name": "Sunray",
+      "type": "Freerace",
       "regex": [
         "sunray"
       ]
     },
     {
       "name": "Torro",
+      "type": "Freeride",
       "regex": [
         "torro"
       ]
     },
     {
       "name": "Transwave",
+      "type": "Wave",
       "regex": [
         "transwave"
       ]
     },
     {
       "name": "Vector",
+      "type": "Freerace",
       "regex": [
         "vector"
+      ]
+    },
+    {
+      "name": "Yeah",
+      "type": "Freestyle",
+      "regex": [
+        "yeah"
       ]
     }
   ]

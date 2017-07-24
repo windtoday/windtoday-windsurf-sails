@@ -3,17 +3,20 @@
     "name": "Ezzy",
     "regex": [
       "ezzy(?:.?sails)?"
-    ]
+    ],
+    "year": 1983
   },
   "models": [
     {
       "name": "Cheetah",
+      "type": "Freeride",
       "regex": [
         "cheetah"
       ]
     },
     {
       "name": "Elite",
+      "type": "Wave",
       "regex": [
         "elite"
       ]
@@ -26,24 +29,28 @@
     },
     {
       "name": "Legacy",
+      "type": "Freeride",
       "regex": [
         "legacy"
       ]
     },
     {
       "name": "Lion",
+      "type": "Freerace",
       "regex": [
         "lion"
       ]
     },
     {
       "name": "Panther",
+      "type": "Wave",
       "regex": [
         "panther"
       ]
     },
     {
       "name": "Taka",
+      "type": "Wave",
       "regex": [
         "taka"
       ]
@@ -62,6 +69,7 @@
     },
     {
       "name": "Zeta",
+      "type": "Wave",
       "regex": [
         "zeta"
       ]

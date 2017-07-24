@@ -3,29 +3,34 @@
     "name": "Loft",
     "regex": [
       "loft(?:.?sails)?"
-    ]
+    ],
+    "year": 1999
   },
   "models": [
     {
       "name": "Airscape",
+      "type": "Freestyle",
       "regex": [
         "air.?scape"
       ]
     },
     {
       "name": "Blade FR",
+      "type": "Race",
       "regex": [
         "blade.?fr"
       ]
     },
     {
       "name": "Lip Wave",
+      "type": "Wave",
       "regex": [
         "lip.?wave"
       ]
     },
     {
       "name": "Oxygen",
+      "type": "Freeride",
       "regex": [
         "oxygen",
         "o2"
@@ -45,36 +50,42 @@
     },
     {
       "name": "Raceboard Blade",
+      "type": "Race",
       "regex": [
         "race(?:board(?:.?blade)?)?"
       ]
     },
     {
       "name": "Racing Blade",
+      "type": "Race",
       "regex": [
         "racing(?:.?blade)?"
       ]
     },
     {
       "name": "Speed Blade",
+      "type": "Speed",
       "regex": [
         "speed(?:.?blade)??"
       ]
     },
     {
       "name": "Switch Blade",
+      "type": "Freerace",
       "regex": [
         "switch(?:.?blade)?"
       ]
     },
     {
       "name": "Wavescape",
+      "type": "Wave",
       "regex": [
         "wave.?scape"
       ]
     },
     {
       "name": "Windscape",
+      "type": "Wave",
       "regex": [
         "wind.?scape"
       ]
