@@ -21,6 +21,7 @@
     },
     {
       "name": "Combat",
+      "type": "Wave",
       "regex": [
         "combat"
       ]
@@ -45,6 +46,7 @@
     },
     {
       "name": "Fusion",
+      "type": "Wave",
       "regex": [
         "fusion"
       ]
@@ -76,13 +78,14 @@
     },
     {
       "name": "RS",
+      "type": "Race",
       "regex": [
         "rs"
       ]
     },
     {
       "name": "Ryde",
-      "type": "Freestyle",
+      "type": "Freeride",
       "regex": [
         "ryde"
       ]
@@ -119,12 +122,14 @@
     },
     {
       "name": "V8",
+      "type": "Freerace",
       "regex": [
         "v8"
       ]
     },
     {
       "name": "Wizard",
+      "type": "Freestyle",
       "regex": [
         "wizard"
       ]
