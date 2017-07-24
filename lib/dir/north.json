@@ -34,6 +34,7 @@
     },
     {
       "name": "Hero",
+      "type": "Wave",
       "regex": [
         "hero"
       ]
@@ -65,8 +66,16 @@
     },
     {
       "name": "SType",
+      "type": "Freerace",
       "regex": [
         "s.?type"
+      ]
+    },
+    {
+      "name": "Session",
+      "type": "Wave",
+      "regex": [
+        "session"
       ]
     },
     {
@@ -83,6 +92,7 @@
     },
     {
       "name": "Warp",
+      "type": "Race",
       "regex": [
         "warp"
       ]
