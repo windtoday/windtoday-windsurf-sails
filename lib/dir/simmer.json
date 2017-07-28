@@ -8,24 +8,28 @@
   "models": [
     {
       "name": "2xc",
+      "type": "Freerace",
       "regex": [
         "2xc"
       ]
     },
     {
       "name": "Ace",
+      "type": "Freestyle",
       "regex": [
         "ace"
       ]
     },
     {
       "name": "Apex",
+      "type": "Wave",
       "regex": [
         "apex"
       ]
     },
     {
       "name": "Blacktip",
+      "type": "Wave",
       "regex": [
         "black.?tip"
       ]
@@ -38,6 +42,7 @@
     },
     {
       "name": "Icon",
+      "type": "Wave",
       "regex": [
         "icon"
       ]
@@ -56,24 +61,29 @@
     },
     {
       "name": "SCR",
+      "type": "Race",
       "regex": [
+        "sc.?race",
         "scr"
       ]
     },
     {
       "name": "SCS",
+      "type": "Freerace",
       "regex": [
         "scs"
       ]
     },
     {
       "name": "Tricera",
+      "type": "Wave",
       "regex": [
         "tricera"
       ]
     },
     {
       "name": "Vmax",
+      "type": "Freerace",
       "regex": [
         "v.?max"
       ]

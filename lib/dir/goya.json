@@ -8,30 +8,35 @@
   "models": [
     {
       "name": "Banzai",
+      "type": "Wave",
       "regex": [
         "banzai"
       ]
     },
     {
       "name": "Bounce",
+      "type": "Freestyle",
       "regex": [
         "bounce"
       ]
     },
     {
       "name": "Eclipse",
+      "type": "Wave",
       "regex": [
         "eclipse"
       ]
     },
     {
       "name": "Fringe",
+      "type": "Wave",
       "regex": [
         "fringe"
       ]
     },
     {
       "name": "Guru",
+      "type": "Wave",
       "regex": [
         "gur[uú]"
       ]
@@ -45,6 +50,7 @@
     },
     {
       "name": "Nexus",
+      "type": "Freeride",
       "regex": [
         "nexus"
       ]

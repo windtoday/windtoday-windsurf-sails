@@ -1,37 +1,44 @@
 {
   "brand": {
+    "county": "Netherlands",
     "name": "Attitude",
     "regex": [
       "attitude(?:.?sails)?"
-    ]
+    ],
+    "year": 2014
   },
   "models": [
     {
       "name": "AllStars",
+      "type": "Freestyle",
       "regex": [
         "allstars"
       ]
     },
     {
       "name": "Hornet",
+      "type": "Freerace",
       "regex": [
         "hornet"
       ]
     },
     {
       "name": "RPM",
+      "type": "Freeride",
       "regex": [
         "rpm"
       ]
     },
     {
       "name": "Rebel",
+      "type": "Wave",
       "regex": [
         "rebel"
       ]
     },
     {
       "name": "Source",
+      "type": "Freeride",
       "regex": [
         "source"
       ]

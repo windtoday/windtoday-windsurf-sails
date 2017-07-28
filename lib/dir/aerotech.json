@@ -3,7 +3,8 @@
     "name": "Aerotech",
     "regex": [
       "aerotech(?:.?sails)?"
-    ]
+    ],
+    "year": 2009
   },
   "models": [
     {
@@ -14,44 +15,44 @@
     },
     {
       "name": "Air X",
+      "type": "Freestyle",
       "regex": [
         "air(?:.x)?"
       ]
     },
     {
       "name": "Charge",
+      "type": "Wave",
       "regex": [
         "charge"
       ]
     },
     {
       "name": "Dagger",
+      "type": "Freerace",
       "regex": [
         "dagger"
       ]
     },
     {
       "name": "Freespeed",
+      "type": "Freeride",
       "regex": [
         "freespeed"
       ]
     },
     {
       "name": "Phantom",
+      "type": "Wave",
       "regex": [
         "phantom"
       ]
     },
     {
       "name": "Rapidfire",
+      "type": "Freerace",
       "regex": [
         "rapidfire"
-      ]
-    },
-    {
-      "name": "Vice",
-      "regex": [
-        "vice"
       ]
     }
   ]

@@ -1,5 +1,6 @@
 {
   "brand": {
+    "country": "EEUU",
     "name": "Ezzy",
     "regex": [
       "ezzy(?:.?sails)?"

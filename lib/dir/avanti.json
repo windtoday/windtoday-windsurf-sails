@@ -13,37 +13,47 @@
       ]
     },
     {
-      "name": "Echo ME",
+      "name": "Echo",
+      "type": "Freestyle",
       "regex": [
-        "echo(?:.me)?"
+        "echo"
       ]
     },
     {
       "name": "Fenix",
+      "type": "Wave",
       "regex": [
         "fenix"
       ]
     },
     {
-      "name": "M2",
+      "name": "Machine",
+      "type": "Race",
       "regex": [
-        "m2"
+        "machine",
+        "m2",
+        "m3",
+        "m4",
+        "m5"
       ]
     },
     {
-      "name": "Machine M-4",
-      "regex": [
-        "machine(?: m.?4)?"
-      ]
-    },
-    {
-      "name": "Poweride ME",
+      "name": "Poweride",
+      "type": "Freeride",
       "regex": [
         "poweride"
       ]
     },
     {
+      "name": "Tempest",
+      "type": "Freerace",
+      "regex": [
+        "tempest"
+      ]
+    },
+    {
       "name": "Viper",
+      "type": "Wave",
       "regex": [
         "viper"
       ]

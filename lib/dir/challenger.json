@@ -1,5 +1,6 @@
 {
   "brand": {
+    "country": "Italy",
     "name": "Challenger",
     "regex": [
       "challenger(?:.?sails)?"
@@ -7,19 +8,38 @@
   },
   "models": [
     {
+      "name": "3G",
+      "type": "Wave",
+      "regex": [
+        "three(?:.g)?",
+        "3g"
+      ]
+    },
+    {
+      "name": "4G",
+      "type": "Wave",
+      "regex": [
+        "four(?:.g)?",
+        "4g"
+      ]
+    },
+    {
       "name": "4Pro",
+      "type": "Freestyle",
       "regex": [
         "4pro"
       ]
     },
     {
-      "name": "Aero+",
+      "name": "Aero",
+      "type": "Race",
       "regex": [
         "aero\\+?"
       ]
     },
     {
-      "name": "FluidoT3",
+      "name": "Fluido",
+      "type": "Freerace",
       "regex": [
         "fluido(?:.?T3)?"
       ]
@@ -32,20 +52,16 @@
     },
     {
       "name": "Konda",
+      "type": "Wave",
       "regex": [
         "k.?onda"
       ]
     },
     {
       "name": "Liquido",
+      "type": "Freeride",
       "regex": [
         "liquido"
-      ]
-    },
-    {
-      "name": "Three-G",
-      "regex": [
-        "three(?:.g)?"
       ]
     }
   ]

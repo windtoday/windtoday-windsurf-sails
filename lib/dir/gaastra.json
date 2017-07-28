@@ -4,7 +4,8 @@
     "regex": [
       "gaastra(?:.?sails)?",
       "ga(?:.?sails)?"
-    ]
+    ],
+    "year": 1980
   },
   "models": [
     {
