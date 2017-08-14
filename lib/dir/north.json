@@ -34,7 +34,7 @@
     },
     {
       "name": "Hero",
-      "type": "Wave",
+      "type": "Freestyle",
       "regex": [
         "hero"
       ]
@@ -80,6 +80,7 @@
     },
     {
       "name": "Volt",
+      "type": "Wave",
       "regex": [
         "volt"
       ]

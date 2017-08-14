@@ -75,6 +75,7 @@
     },
     {
       "name": "Turbo",
+      "type": "Freerace",
       "regex": [
         "turbo"
       ]

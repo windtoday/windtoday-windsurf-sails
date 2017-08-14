@@ -38,6 +38,7 @@
     },
     {
       "name": "Purelip",
+      "type": "Wave",
       "regex": [
         "pure.?lip"
       ]

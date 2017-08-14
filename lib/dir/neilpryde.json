@@ -15,6 +15,7 @@
     },
     {
       "name": "Atlas",
+      "type": "Wave",
       "regex": [
         "atlas"
       ]
@@ -66,6 +67,7 @@
     },
     {
       "name": "Hornet",
+      "type": "Freerace",
       "regex": [
         "hornet"
       ]
