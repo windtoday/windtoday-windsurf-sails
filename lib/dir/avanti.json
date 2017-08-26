@@ -14,21 +14,21 @@
     },
     {
       "name": "Echo",
-      "type": "Freestyle",
+      "modality": "Freestyle",
       "regex": [
         "echo"
       ]
     },
     {
       "name": "Fenix",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "fenix"
       ]
     },
     {
       "name": "Machine",
-      "type": "Race",
+      "modality": "Race",
       "regex": [
         "machine",
         "m2",
@@ -39,21 +39,21 @@
     },
     {
       "name": "Poweride",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "poweride"
       ]
     },
     {
       "name": "Tempest",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "tempest"
       ]
     },
     {
       "name": "Viper",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "viper"
       ]

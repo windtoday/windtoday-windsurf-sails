@@ -8,7 +8,7 @@
   "models": [
     {
       "name": "Aqua",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "aqua"
       ]
@@ -21,77 +21,77 @@
     },
     {
       "name": "Blow",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "blow"
       ]
     },
     {
       "name": "Dragon",
-      "type": "Beginner",
+      "modality": "Beginner",
       "regex": [
         "dragon"
       ]
     },
     {
       "name": "GS-R",
-      "type": "Race",
+      "modality": "Race",
       "regex": [
         "gs(?:.?r)?"
       ]
     },
     {
       "name": "Peak",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "peak"
       ]
     },
     {
       "name": "Rapid",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "rapid"
       ]
     },
     {
       "name": "Stream",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "stream"
       ]
     },
     {
       "name": "Sunray",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "sunray"
       ]
     },
     {
       "name": "Torro",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "torro"
       ]
     },
     {
       "name": "Transwave",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "transwave"
       ]
     },
     {
       "name": "Vector",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "vector"
       ]
     },
     {
       "name": "Yeah",
-      "type": "Freestyle",
+      "modality": "Freestyle",
       "regex": [
         "yeah"
       ]

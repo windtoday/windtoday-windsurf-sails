@@ -21,14 +21,14 @@
     },
     {
       "name": "Quad",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "quad"
       ]
     },
     {
       "name": "Shark",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "shark"
       ]

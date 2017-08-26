@@ -10,35 +10,35 @@
   "models": [
     {
       "name": "AllStars",
-      "type": "Freestyle",
+      "modality": "Freestyle",
       "regex": [
         "allstars"
       ]
     },
     {
       "name": "Hornet",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "hornet"
       ]
     },
     {
       "name": "RPM",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "rpm"
       ]
     },
     {
       "name": "Rebel",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "rebel"
       ]
     },
     {
       "name": "Source",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "source"
       ]

@@ -15,14 +15,14 @@
     },
     {
       "name": "Atlas",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "atlas"
       ]
     },
     {
       "name": "Combat",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "combat"
       ]
@@ -47,7 +47,7 @@
     },
     {
       "name": "Fusion",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "fusion"
       ]
@@ -60,14 +60,14 @@
     },
     {
       "name": "Hellcat",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "hellcat"
       ]
     },
     {
       "name": "Hornet",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "hornet"
       ]
@@ -80,14 +80,14 @@
     },
     {
       "name": "RS",
-      "type": "Race",
+      "modality": "Race",
       "regex": [
         "rs"
       ]
     },
     {
       "name": "Ryde",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "ryde"
       ]
@@ -124,14 +124,14 @@
     },
     {
       "name": "V8",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "v8"
       ]
     },
     {
       "name": "Wizard",
-      "type": "Freestyle",
+      "modality": "Freestyle",
       "regex": [
         "wizard"
       ]

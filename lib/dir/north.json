@@ -27,14 +27,14 @@
     },
     {
       "name": "EType",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "e.?type"
       ]
     },
     {
       "name": "Hero",
-      "type": "Freestyle",
+      "modality": "Freestyle",
       "regex": [
         "hero"
       ]
@@ -47,7 +47,7 @@
     },
     {
       "name": "Idol",
-      "type": "Freestyle",
+      "modality": "Freestyle",
       "regex": [
         "idol"
       ]
@@ -66,21 +66,21 @@
     },
     {
       "name": "SType",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "s.?type"
       ]
     },
     {
       "name": "Session",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "session"
       ]
     },
     {
       "name": "Volt",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "volt"
       ]
@@ -93,7 +93,7 @@
     },
     {
       "name": "Warp",
-      "type": "Race",
+      "modality": "Race",
       "regex": [
         "warp"
       ]

@@ -8,56 +8,56 @@
   "models": [
     {
       "name": "AC-F",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "ac.?f"
       ]
     },
     {
       "name": "AC-K",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "ac.?k"
       ]
     },
     {
       "name": "AC-ONE",
-      "type": "Race",
+      "modality": "Race",
       "regex": [
         "ac.?(?:1|one)"
       ]
     },
     {
       "name": "AC-X",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "ac.?x"
       ]
     },
     {
       "name": "Salt",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "salt"
       ]
     },
     {
       "name": "Slash",
-      "type": "Freestyle",
+      "modality": "Freestyle",
       "regex": [
         "slash"
       ]
     },
     {
       "name": "Spy",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "spy"
       ]
     },
     {
       "name": "Swag",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "swag"
       ]

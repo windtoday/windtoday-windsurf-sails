@@ -10,14 +10,14 @@
   "models": [
     {
       "name": "Cheetah",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "cheetah"
       ]
     },
     {
       "name": "Elite",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "elite"
       ]
@@ -30,28 +30,28 @@
     },
     {
       "name": "Legacy",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "legacy"
       ]
     },
     {
       "name": "Lion",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "lion"
       ]
     },
     {
       "name": "Panther",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "panther"
       ]
     },
     {
       "name": "Taka",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "taka"
       ]
@@ -70,7 +70,7 @@
     },
     {
       "name": "Zeta",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "zeta"
       ]

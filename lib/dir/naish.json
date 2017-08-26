@@ -14,7 +14,7 @@
     },
     {
       "name": "Bullet",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "bullet"
       ]
@@ -33,14 +33,14 @@
     },
     {
       "name": "Force",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "force"
       ]
     },
     {
       "name": "Gran Prix",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "grand.?prix"
       ]
@@ -53,7 +53,7 @@
     },
     {
       "name": "Noa",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "noa"
       ]
@@ -66,7 +66,7 @@
     },
     {
       "name": "SL",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "sl"
       ]
@@ -85,14 +85,14 @@
     },
     {
       "name": "Sprint",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "sprint"
       ]
     },
     {
       "name": "Stealth",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "stealth"
       ]
@@ -105,7 +105,7 @@
     },
     {
       "name": "X2",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "x2"
       ]

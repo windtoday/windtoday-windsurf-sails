@@ -8,70 +8,70 @@
   "models": [
     {
       "name": "Kama",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "kama"
       ]
     },
     {
       "name": "Kamikaze",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "kamikaze"
       ]
     },
     {
       "name": "Kaos",
-      "type": "Freestyle",
+      "modality": "Freestyle",
       "regex": [
         "kaos"
       ]
     },
     {
       "name": "Killer",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "killer"
       ]
     },
     {
       "name": "Koncept",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "koncept"
       ]
     },
     {
       "name": "Koyote",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "koyote"
       ]
     },
     {
       "name": "Kruze",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "kruze"
       ]
     },
     {
       "name": "Kryptonite",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "kryptonite"
       ]
     },
     {
       "name": "Kult",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "kult"
       ]
     },
     {
       "name": "Race",
-      "type": "Race",
+      "modality": "Race",
       "regex": [
         "race"
       ]

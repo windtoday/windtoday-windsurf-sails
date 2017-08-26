@@ -8,49 +8,49 @@
   "models": [
     {
       "name": "Banzai",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "banzai"
       ]
     },
     {
       "name": "Bounce",
-      "type": "Freestyle",
+      "modality": "Freestyle",
       "regex": [
         "bounce"
       ]
     },
     {
       "name": "Eclipse",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "eclipse"
       ]
     },
     {
       "name": "Fringe",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "fringe"
       ]
     },
     {
       "name": "Guru",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "gur[uú]"
       ]
     },
     {
       "name": "Mark",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "mark"
       ]
     },
     {
       "name": "Nexus",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "nexus"
       ]

@@ -15,42 +15,42 @@
     },
     {
       "name": "Air X",
-      "type": "Freestyle",
+      "modality": "Freestyle",
       "regex": [
         "air(?:.x)?"
       ]
     },
     {
       "name": "Charge",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "charge"
       ]
     },
     {
       "name": "Dagger",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "dagger"
       ]
     },
     {
       "name": "Freespeed",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "freespeed"
       ]
     },
     {
       "name": "Phantom",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "phantom"
       ]
     },
     {
       "name": "Rapidfire",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "rapidfire"
       ]

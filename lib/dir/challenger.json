@@ -9,7 +9,7 @@
   "models": [
     {
       "name": "3G",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "three(?:.g)?",
         "3g"
@@ -17,7 +17,7 @@
     },
     {
       "name": "4G",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "four(?:.g)?",
         "4g"
@@ -25,21 +25,21 @@
     },
     {
       "name": "4Pro",
-      "type": "Freestyle",
+      "modality": "Freestyle",
       "regex": [
         "4pro"
       ]
     },
     {
       "name": "Aero",
-      "type": "Race",
+      "modality": "Race",
       "regex": [
         "aero\\+?"
       ]
     },
     {
       "name": "Fluido",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "fluido(?:.?T3)?"
       ]
@@ -52,14 +52,14 @@
     },
     {
       "name": "Konda",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "k.?onda"
       ]
     },
     {
       "name": "Liquido",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "liquido"
       ]

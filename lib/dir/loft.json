@@ -9,28 +9,28 @@
   "models": [
     {
       "name": "Airscape",
-      "type": "Freestyle",
+      "modality": "Freestyle",
       "regex": [
         "air.?scape"
       ]
     },
     {
       "name": "Blade FR",
-      "type": "Race",
+      "modality": "Race",
       "regex": [
         "blade.?fr"
       ]
     },
     {
       "name": "Lip Wave",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "lip.?wave"
       ]
     },
     {
       "name": "Oxygen",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "oxygen",
         "o2"
@@ -38,7 +38,7 @@
     },
     {
       "name": "Purelip",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "pure.?lip"
       ]
@@ -51,42 +51,42 @@
     },
     {
       "name": "Raceboard Blade",
-      "type": "Race",
+      "modality": "Race",
       "regex": [
         "race(?:board(?:.?blade)?)?"
       ]
     },
     {
       "name": "Racing Blade",
-      "type": "Race",
+      "modality": "Race",
       "regex": [
         "racing(?:.?blade)?"
       ]
     },
     {
       "name": "Speed Blade",
-      "type": "Speed",
+      "modality": "Speed",
       "regex": [
         "speed(?:.?blade)??"
       ]
     },
     {
       "name": "Switch Blade",
-      "type": "Freerace",
+      "modality": "Freerace",
       "regex": [
         "switch(?:.?blade)?"
       ]
     },
     {
       "name": "Wavescape",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "wave.?scape"
       ]
     },
     {
       "name": "Windscape",
-      "type": "Wave",
+      "modality": "Wave",
       "regex": [
         "wind.?scape"
       ]

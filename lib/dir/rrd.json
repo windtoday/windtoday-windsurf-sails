@@ -8,7 +8,7 @@
   "models": [
     {
       "name": "Evolution",
-      "type": "Freeride",
+      "modality": "Freeride",
       "regex": [
         "evolution"
       ]
