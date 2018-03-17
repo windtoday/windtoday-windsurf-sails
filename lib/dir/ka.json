@@ -59,6 +59,7 @@
       "name": "Kryptonite",
       "modality": "Wave",
       "regex": [
+        "krypto",
         "kryptonite"
       ]
     },
