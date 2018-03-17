@@ -27,7 +27,7 @@ describe('directory', function () {
     })
   })
 
-  it.only('case sensitive', function () {
+  it('case insensitive', function () {
     should(directory('Ezzy Lion3')).be.eql({
       data: { brand: 'Ezzy', model: 'Lion', modality: 'Freerace' },
       output: ' '
