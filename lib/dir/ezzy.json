@@ -39,7 +39,7 @@
       "name": "Lion",
       "modality": "Freerace",
       "regex": [
-        "lion"
+        "lion(?:.?\\d)?"
       ]
     },
     {
