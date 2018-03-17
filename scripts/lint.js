@@ -1,11 +1,12 @@
 'use strict'
 
-var files = require('req-all')('../lib/dir')
-var isEqual = require('json-is-equal')
-var sortKeys = require('sort-keys')
-var lodash = require('lodash')
+const files = require('req-all')('../lib/dir')
 
-const TYPES = [
+const {forEach, sortBy} = require('lodash')
+const isEqual = require('json-is-equal')
+const sortKeys = require('sort-keys')
+
+const MODALITIES = [
   'Beginner',
   'Wave',
   'Freestyle',
@@ -14,12 +15,12 @@ const TYPES = [
   'Race'
 ]
 
-lodash.forEach(files, function ({file, filename}) {
+forEach(files, function ({file, filename}) {
   var sortedFile = sortKeys(file, {deep: true})
-  sortedFile.models = lodash.sortBy(sortedFile.models, 'name')
+  sortedFile.models = sortBy(sortedFile.models, 'name')
 
   const isValidType = sortedFile.models.every(({type}) => (
-    TYPES.includes(type)
+    MODALITIES.includes(type)
   ))
 
   if (!isValidType) {
