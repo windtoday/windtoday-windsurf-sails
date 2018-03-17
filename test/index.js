@@ -21,10 +21,16 @@ describe('directory', function () {
   })
 
   it('detect brand and model', function () {
-    const result = directory('vendo vela ezzy panther')
-    should(result).be.eql({
+    should(directory('vendo vela ezzy panther')).be.eql({
       data: { brand: 'Ezzy', model: 'Panther', modality: 'Wave' },
       output: 'vendo vela  '
+    })
+  })
+
+  it.only('case sensitive', function () {
+    should(directory('Ezzy Lion3')).be.eql({
+      data: { brand: 'Ezzy', model: 'Lion', modality: 'Freerace' },
+      output: ' '
     })
   })
 
