@@ -1,6 +1,6 @@
 'use strict'
 
-const files = require('req-all')('../lib/dir')
+const files = require('import-modules')('../lib/dir')
 
 const {forEach, sortBy} = require('lodash')
 const isEqual = require('json-is-equal')

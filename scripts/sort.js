@@ -1,6 +1,6 @@
 'use strict'
 
-var files = require('req-all')('../lib/dir')
+var files = require('import-modules')('../lib/dir')
 var jsonFuture = require('json-future')
 var sortKeys = require('sort-keys')
 var lodash = require('lodash')
