@@ -30,7 +30,7 @@
     "lodash.reduce": "~4.6.0",
     "regex-word-boundary": "~1.1.0",
     "import-modules": "~2.0.0",
-    "str-match": "~2.1.0"
+    "str-match": "~2.1.6"
   },
   "devDependencies": {
     "coveralls": "latest",
